@@ -1,0 +1,382 @@
+"country_name
+medal",BRONZE,GOLD,NONE,SILVER
+"Afghanistan
+",NaN,NaN,2.0,NaN
+"Albania
+",NaN,NaN,6.0,NaN
+"Algeria
+",NaN,NaN,34.0,NaN
+"American Samoa
+",NaN,NaN,1.0,NaN
+"Andorra
+",NaN,NaN,2.0,NaN
+"Angola
+",NaN,NaN,1.0,NaN
+"Antigua and Barbuda
+",NaN,NaN,2.0,NaN
+"Argentina
+",NaN,NaN,46.0,NaN
+"Armenia
+",2.0,NaN,10.0,2.0
+"Aruba
+",NaN,NaN,1.0,NaN
+"Australia
+",12.0,11.0,162.0,4.0
+"Austria
+",5.0,1.0,48.0,1.0
+"Azerbaijan
+",4.0,NaN,26.0,3.0
+"Bahamas
+",NaN,2.0,2.0,NaN
+"Bahrain
+",NaN,NaN,10.0,1.0
+"Bangladesh
+",NaN,NaN,3.0,NaN
+"Belarus
+",3.0,1.0,58.0,2.0
+"Belgium
+",2.0,2.0,58.0,1.0
+"Belize
+",NaN,NaN,2.0,NaN
+"Benin
+",NaN,NaN,3.0,NaN
+"Bermuda
+",NaN,1.0,1.0,NaN
+"Bhutan
+",NaN,NaN,3.0,NaN
+"Bolivia
+",NaN,NaN,2.0,NaN
+"Bosnia and Herzegovina
+",NaN,NaN,5.0,NaN
+"Botswana
+",NaN,NaN,4.0,NaN
+"Brazil
+",7.0,4.0,97.0,5.0
+"Bulgaria
+",2.0,2.0,22.0,1.0
+"Burkina Faso
+",1.0,NaN,4.0,NaN
+"Burundi
+",NaN,NaN,3.0,NaN
+"Cameroon
+",NaN,NaN,9.0,NaN
+"Canada
+",6.0,5.0,137.0,4.0
+"Cape Verde
+",NaN,NaN,2.0,NaN
+"Chad
+",NaN,NaN,2.0,NaN
+"Chile
+",NaN,NaN,20.0,NaN
+"Chinese Taipei
+",5.0,1.0,42.0,3.0
+"Colombia
+",1.0,NaN,49.0,4.0
+"Comoros
+",NaN,NaN,1.0,NaN
+"Cook Islands
+",NaN,NaN,5.0,NaN
+"Costa Rica
+",NaN,NaN,8.0,NaN
+"Croatia
+",2.0,1.0,30.0,2.0
+"Cuba
+",5.0,6.0,40.0,3.0
+"Cyprus
+",NaN,NaN,9.0,NaN
+"Czech Republic
+",2.0,3.0,59.0,4.0
+"CÃ´te d\'Ivoire
+",1.0,NaN,7.0,NaN
+"Democratic Republic of the Congo
+",NaN,NaN,6.0,NaN
+"Denmark
+",3.0,2.0,40.0,1.0
+"Djibouti
+",NaN,NaN,1.0,NaN
+"Dominica
+",NaN,NaN,1.0,NaN
+"Dominican Republic
+",1.0,NaN,18.0,2.0
+"Ecuador
+",NaN,2.0,38.0,1.0
+"Egypt
+",4.0,1.0,69.0,1.0
+"El Salvador
+",NaN,NaN,2.0,NaN
+"Eritrea
+",NaN,NaN,12.0,NaN
+"Estonia
+",1.0,NaN,25.0,NaN
+"Eswatini
+",NaN,NaN,1.0,NaN
+"Ethiopia
+",2.0,1.0,21.0,1.0
+"Fiji
+",NaN,NaN,3.0,NaN
+"Finland
+",2.0,NaN,25.0,NaN
+"France
+",5.0,4.0,170.0,7.0
+"Gabon
+",NaN,NaN,2.0,NaN
+"Gambia
+",NaN,NaN,1.0,NaN
+"Georgia
+",1.0,2.0,20.0,5.0
+"Germany
+",9.0,7.0,169.0,5.0
+"Ghana
+",1.0,NaN,4.0,NaN
+"Great Britain
+",17.0,14.0,137.0,14.0
+"Greece
+",1.0,2.0,31.0,NaN
+"Grenada
+",1.0,NaN,1.0,NaN
+"Guam
+",NaN,NaN,2.0,NaN
+"Guatemala
+",NaN,NaN,21.0,NaN
+"Guinea
+",NaN,NaN,2.0,NaN
+"Guinea-Bissau
+",NaN,NaN,3.0,NaN
+"Guyana
+",NaN,NaN,2.0,NaN
+"Haiti
+",NaN,NaN,3.0,NaN
+"Honduras
+",NaN,NaN,3.0,NaN
+"Hong Kong, China
+",2.0,1.0,25.0,2.0
+"Hungary
+",3.0,5.0,73.0,7.0
+"Iceland
+",NaN,NaN,1.0,NaN
+"India
+",3.0,1.0,55.0,2.0
+"Indonesia
+",3.0,NaN,10.0,1.0
+"Iraq
+",NaN,NaN,2.0,NaN
+"Ireland
+",1.0,1.0,46.0,NaN
+"Islamic Republic of Iran
+",2.0,3.0,32.0,2.0
+"Israel
+",1.0,2.0,40.0,NaN
+"Italy
+",14.0,6.0,145.0,8.0
+"Jamaica
+",3.0,3.0,16.0,1.0
+"Japan
+",14.0,23.0,181.0,9.0
+"Jordan
+",1.0,NaN,9.0,1.0
+"Kazakhstan
+",8.0,NaN,67.0,NaN
+"Kenya
+",2.0,4.0,20.0,4.0
+"Kiribati
+",NaN,NaN,2.0,NaN
+"Kosovo
+",NaN,2.0,6.0,NaN
+"Kuwait
+",1.0,NaN,5.0,NaN
+"Kyrgyzstan
+",1.0,NaN,11.0,2.0
+"Lao People\'s Democratic Republic
+",NaN,NaN,1.0,NaN
+"Latvia
+",1.0,NaN,19.0,NaN
+"Lebanon
+",NaN,NaN,3.0,NaN
+"Lesotho
+",NaN,NaN,2.0,NaN
+"Liberia
+",NaN,NaN,1.0,NaN
+"Libya
+",NaN,NaN,2.0,NaN
+"Liechtenstein
+",NaN,NaN,1.0,NaN
+"Lithuania
+",NaN,NaN,24.0,1.0
+"Luxembourg
+",NaN,NaN,10.0,NaN
+"Madagascar
+",NaN,NaN,3.0,NaN
+"Malawi
+",NaN,NaN,2.0,NaN
+"Malaysia
+",NaN,NaN,16.0,1.0
+"Maldives
+",NaN,NaN,1.0,NaN
+"Mali
+",NaN,NaN,1.0,NaN
+"Malta
+",NaN,NaN,4.0,NaN
+"Mauritius
+",NaN,NaN,5.0,NaN
+"Mexico
+",1.0,NaN,81.0,NaN
+"Monaco
+",NaN,NaN,3.0,NaN
+"Mongolia
+",3.0,NaN,37.0,1.0
+"Montenegro
+",NaN,NaN,4.0,NaN
+"Morocco
+",NaN,1.0,32.0,NaN
+"Mozambique
+",NaN,NaN,5.0,NaN
+"Myanmar
+",NaN,NaN,2.0,NaN
+"Namibia
+",NaN,NaN,10.0,1.0
+"Nauru
+",NaN,NaN,1.0,NaN
+"Nepal
+",NaN,NaN,2.0,NaN
+"Netherlands
+",11.0,7.0,77.0,8.0
+"New Zealand
+",6.0,3.0,53.0,2.0
+"Nicaragua
+",NaN,NaN,5.0,NaN
+"Niger
+",NaN,NaN,3.0,NaN
+"Nigeria
+",1.0,NaN,15.0,1.0
+"North Macedonia
+",NaN,NaN,4.0,1.0
+"Norway
+",1.0,3.0,39.0,2.0
+"Oman
+",NaN,NaN,2.0,NaN
+"Pakistan
+",NaN,NaN,7.0,NaN
+"Palestine
+",NaN,NaN,2.0,NaN
+"Panama
+",NaN,NaN,6.0,NaN
+"Papua New Guinea
+",NaN,NaN,5.0,NaN
+"Paraguay
+",NaN,NaN,5.0,NaN
+"People\'s Republic of China
+",14.0,26.0,143.0,23.0
+"Peru
+",NaN,NaN,29.0,NaN
+"Philippines
+",1.0,1.0,12.0,2.0
+"Poland
+",4.0,3.0,103.0,1.0
+"Portugal
+",2.0,1.0,47.0,1.0
+"Puerto Rico
+",NaN,1.0,17.0,NaN
+"Qatar
+",NaN,2.0,4.0,NaN
+"ROC
+",19.0,13.0,167.0,15.0
+"Refugee Olympic Team
+",NaN,NaN,21.0,NaN
+"Republic of Korea
+",7.0,2.0,103.0,3.0
+"Republic of Moldova
+",1.0,NaN,14.0,NaN
+"Romania
+",NaN,NaN,28.0,1.0
+"Rwanda
+",NaN,NaN,2.0,NaN
+"Saint Lucia
+",NaN,NaN,2.0,NaN
+"Samoa
+",NaN,NaN,10.0,NaN
+"San Marino
+",2.0,NaN,2.0,NaN
+"Sao Tome and Principe
+",NaN,NaN,2.0,NaN
+"Saudi Arabia
+",NaN,NaN,7.0,1.0
+"Senegal
+",NaN,NaN,6.0,NaN
+"Serbia
+",3.0,2.0,34.0,1.0
+"Seychelles
+",NaN,NaN,2.0,NaN
+"Sierra Leone
+",NaN,NaN,1.0,NaN
+"Singapore
+",NaN,NaN,15.0,NaN
+"Slovakia
+",NaN,1.0,24.0,2.0
+"Slovenia
+",1.0,3.0,27.0,1.0
+"Solomon Islands
+",NaN,NaN,2.0,NaN
+"Somalia
+",NaN,NaN,1.0,NaN
+"South Africa
+",NaN,1.0,45.0,2.0
+"Spain
+",4.0,2.0,115.0,5.0
+"Sri Lanka
+",NaN,NaN,4.0,NaN
+"Sudan
+",NaN,NaN,2.0,NaN
+"Suriname
+",NaN,NaN,3.0,NaN
+"Sweden
+",NaN,2.0,57.0,4.0
+"Switzerland
+",5.0,3.0,58.0,3.0
+"Syrian Arab Republic
+",1.0,NaN,3.0,NaN
+"Tajikistan
+",NaN,NaN,7.0,NaN
+"Thailand
+",1.0,1.0,32.0,NaN
+"Togo
+",NaN,NaN,2.0,NaN
+"Tonga
+",NaN,NaN,3.0,NaN
+"Trinidad and Tobago
+",NaN,NaN,12.0,NaN
+"Tunisia
+",NaN,1.0,38.0,1.0
+"Turkey
+",9.0,2.0,61.0,2.0
+"Turkmenistan
+",NaN,NaN,4.0,1.0
+"Uganda
+",1.0,2.0,14.0,1.0
+"Ukraine
+",9.0,1.0,94.0,5.0
+"United Arab Emirates
+",NaN,NaN,3.0,NaN
+"United Republic of Tanzania
+",NaN,NaN,3.0,NaN
+"United States of America
+",27.0,29.0,249.0,29.0
+"Uruguay
+",NaN,NaN,2.0,NaN
+"Uzbekistan
+",2.0,3.0,46.0,NaN
+"Vanuatu
+",NaN,NaN,3.0,NaN
+"Venezuela
+",NaN,1.0,21.0,3.0
+"Vietnam
+",NaN,NaN,10.0,NaN
+"Virgin Islands, British
+",NaN,NaN,2.0,NaN
+"Virgin Islands, US
+",NaN,NaN,1.0,NaN
+"Yemen
+",NaN,NaN,2.0,NaN
+"Zambia
+",NaN,NaN,4.0,NaN
+"Zimbabwe
+",NaN,NaN,2.0,NaN
