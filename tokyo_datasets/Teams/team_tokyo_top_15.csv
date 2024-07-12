@@ -1,0 +1,423 @@
+,sport,event,medal,athletes,rank,country_name,country_code,value_unit,value_type,gender
+1140,3x3 Basketball,Men,GOLD,,1,Latvia,LAT,,,man
+1148,3x3 Basketball,Women,GOLD,,1,United States of America,USA,,,woman
+1141,3x3 Basketball,Men,SILVER,,2,ROC,ROC,,,man
+1149,3x3 Basketball,Women,SILVER,,2,ROC,ROC,,,woman
+1142,3x3 Basketball,Men,BRONZE,,3,Serbia,SRB,,,man
+1150,3x3 Basketball,Women,BRONZE,,3,People's Republic of China,CHN,,,woman
+1143,3x3 Basketball,Men,,,4,Belgium,BEL,,,man
+1151,3x3 Basketball,Women,,,4,France,FRA,,,woman
+1144,3x3 Basketball,Men,,,5,Netherlands,NED,,,man
+1152,3x3 Basketball,Women,,,5,Japan,JPN,,,woman
+1145,3x3 Basketball,Men,,,6,Japan,JPN,,,man
+1153,3x3 Basketball,Women,,,6,Italy,ITA,,,woman
+1146,3x3 Basketball,Men,,,7,Poland,POL,,,man
+1154,3x3 Basketball,Women,,,7,Romania,ROU,,,woman
+1147,3x3 Basketball,Men,,,8,People's Republic of China,CHN,,,man
+696,Archery,Women's Team,GOLD,,1,Republic of Korea,KOR,,,woman
+708,Archery,Mixed Team,GOLD,,1,Republic of Korea,KOR,,,man
+737,Archery,Men's Team,GOLD,,1,Republic of Korea,KOR,,,man
+697,Archery,Women's Team,SILVER,,2,ROC,ROC,,,woman
+709,Archery,Mixed Team,SILVER,,2,Netherlands,NED,,,man
+738,Archery,Men's Team,SILVER,,2,Chinese Taipei,TPE,,,man
+698,Archery,Women's Team,BRONZE,,3,Germany,GER,,,woman
+710,Archery,Mixed Team,BRONZE,,3,Mexico,MEX,,,man
+739,Archery,Men's Team,BRONZE,,3,Japan,JPN,,,man
+699,Archery,Women's Team,,,4,Belarus,BLR,,,woman
+711,Archery,Mixed Team,,"[('Yasemin ANAGOZ', 'https://olympics.com/en/athletes/yasemin-anagoz'), ('Mete GAZOZ', 'https://olympics.com/en/athletes/mete-gazoz')]",4,Turkey,TUR,,,man
+740,Archery,Men's Team,,,4,Netherlands,NED,,,man
+700,Archery,Women's Team,,,5,Japan,JPN,,,woman
+712,Archery,Mixed Team,,"[('Yasemin ANAGOZ', 'https://olympics.com/en/athletes/yasemin-anagoz'), ('Mete GAZOZ', 'https://olympics.com/en/athletes/mete-gazoz')]",5,France,FRA,,,man
+741,Archery,Men's Team,,,5,Great Britain,GBR,,,man
+668,Artistic Gymnastics,Men's Team,GOLD,,1,ROC,ROC,262.5,POINTS,man
+676,Artistic Gymnastics,Women's Team,GOLD,,1,ROC,ROC,169.528,POINTS,woman
+669,Artistic Gymnastics,Men's Team,SILVER,,2,Japan,JPN,262.397,POINTS,man
+677,Artistic Gymnastics,Women's Team,SILVER,,2,United States of America,USA,166.096,POINTS,woman
+670,Artistic Gymnastics,Men's Team,BRONZE,,3,People's Republic of China,CHN,261.894,POINTS,man
+678,Artistic Gymnastics,Women's Team,BRONZE,,3,Great Britain,GBR,164.096,POINTS,woman
+671,Artistic Gymnastics,Men's Team,,,4,Great Britain,GBR,255.76,POINTS,man
+679,Artistic Gymnastics,Women's Team,,,4,Italy,ITA,163.638,POINTS,woman
+672,Artistic Gymnastics,Men's Team,,,5,United States of America,USA,254.594,POINTS,man
+680,Artistic Gymnastics,Women's Team,,,5,Japan,JPN,163.28,POINTS,woman
+673,Artistic Gymnastics,Men's Team,,,6,Switzerland,SUI,250.927,POINTS,man
+681,Artistic Gymnastics,Women's Team,,,6,France,FRA,163.264,POINTS,woman
+674,Artistic Gymnastics,Men's Team,,,7,Ukraine,UKR,246.394,POINTS,man
+682,Artistic Gymnastics,Women's Team,,,7,People's Republic of China,CHN,161.196,POINTS,woman
+675,Artistic Gymnastics,Men's Team,,,8,Germany,GER,238.495,POINTS,man
+211,Artistic Swimming,Duet,GOLD,"[('Svetlana KOLESNICHENKO', 'https://olympics.com/en/athletes/svetlana-kolesnichenko'), ('Svetlana ROMASHINA', 'https://olympics.com/en/athletes/svetlana-romashina')]",1,ROC,ROC,,,man
+233,Artistic Swimming,Team,GOLD,,1,ROC,ROC,,,man
+212,Artistic Swimming,Duet,SILVER,"[('Xuechen HUANG', 'https://olympics.com/en/athletes/xuechen-huang'), ('Wenyan SUN', 'https://olympics.com/en/athletes/wenyan-sun')]",2,People's Republic of China,CHN,,,man
+234,Artistic Swimming,Team,SILVER,,2,People's Republic of China,CHN,,,man
+213,Artistic Swimming,Duet,BRONZE,"[('Marta FIEDINA', 'https://olympics.com/en/athletes/marta-fiedina'), ('Anastasiya SAVCHUK', 'https://olympics.com/en/athletes/anastasiya-savchuk')]",3,Ukraine,UKR,,,man
+235,Artistic Swimming,Team,BRONZE,,3,Ukraine,UKR,,,man
+214,Artistic Swimming,Duet,,"[('Yukiko INUI', 'https://olympics.com/en/athletes/yukiko-inui'), ('Megumu YOSHIDA', 'https://olympics.com/en/athletes/megumu-yoshida')]",4,Japan,JPN,,,man
+236,Artistic Swimming,Team,,,4,Japan,JPN,,,man
+215,Artistic Swimming,Duet,,"[('Claudia HOLZNER', 'https://olympics.com/en/athletes/claudia-holzner'), ('Jacqueline SIMONEAU', 'https://olympics.com/en/athletes/jacqueline-simoneau')]",5,Canada,CAN,,,man
+237,Artistic Swimming,Team,,,5,Italy,ITA,,,man
+216,Artistic Swimming,Duet,,"[('Linda CERRUTI', 'https://olympics.com/en/athletes/linda-cerruti'), ('Costanza FERRO', 'https://olympics.com/en/athletes/costanza-ferro')]",6,Italy,ITA,,,man
+238,Artistic Swimming,Team,,,6,Canada,CAN,,,man
+217,Artistic Swimming,Duet,,"[('Anna-Maria ALEXANDRI', 'https://olympics.com/en/athletes/anna-maria-alexandri'), ('Eirini-Marina ALEXANDRI', 'https://olympics.com/en/athletes/eirini-marina-alexandri')]",7,Austria,AUT,,,man
+239,Artistic Swimming,Team,,,7,Spain,ESP,,,man
+218,Artistic Swimming,Duet,,"[('Charlotte TREMBLE', 'https://olympics.com/en/athletes/charlotte-tremble'), ('Laura TREMBLE', 'https://olympics.com/en/athletes/laura-tremble')]",8,France,FRA,,,man
+801,Athletics,4 x 400m Relay Mixed,GOLD,,1,Poland,POL,00:03:10.440000,TIME,man
+810,Athletics,Women's 4 x 100m Relay,GOLD,,1,Jamaica,JAM,42015,TIME,woman
+818,Athletics,Women's 4 x 400m Relay,GOLD,,1,United States of America,USA,00:03:20.860000,TIME,woman
+826,Athletics,Men's 4 x 100m Relay,GOLD,,1,Italy,ITA,37095,TIME,man
+834,Athletics,Men's 4 x 400m Relay,GOLD,,1,United States of America,USA,00:02:57.770000,TIME,man
+802,Athletics,4 x 400m Relay Mixed,SILVER,,2,Dominican Republic,DOM,00:03:12.740000,TIME,man
+811,Athletics,Women's 4 x 100m Relay,SILVER,,2,United States of America,USA,41090,TIME,woman
+819,Athletics,Women's 4 x 400m Relay,SILVER,,2,Poland,POL,00:03:23.100000,TIME,woman
+827,Athletics,Men's 4 x 100m Relay,SILVER,,2,Great Britain,GBR,38002,TIME,man
+835,Athletics,Men's 4 x 400m Relay,SILVER,,2,Netherlands,NED,00:02:59.060000,TIME,man
+803,Athletics,4 x 400m Relay Mixed,BRONZE,,3,United States of America,USA,00:03:11.390000,TIME,man
+812,Athletics,Women's 4 x 100m Relay,BRONZE,,3,Great Britain,GBR,41055,TIME,woman
+820,Athletics,Women's 4 x 400m Relay,BRONZE,,3,Jamaica,JAM,00:03:21.950000,TIME,woman
+828,Athletics,Men's 4 x 100m Relay,BRONZE,,3,Canada,CAN,37092,TIME,man
+836,Athletics,Men's 4 x 400m Relay,BRONZE,,3,Botswana,BOT,00:02:58.330000,TIME,man
+519,Badminton,Men's Doubles,GOLD,"[('Yang LEE', 'https://olympics.com/en/athletes/yang-lee'), ('Chi-Lin WANG', 'https://olympics.com/en/athletes/chi-lin-wang')]",1,Chinese Taipei,TPE,,,man
+535,Badminton,Women's Doubles,GOLD,"[('Greysia POLII', 'https://olympics.com/en/athletes/greysia-polii'), ('Apriyani RAHAYU', 'https://olympics.com/en/athletes/apriyani-rahayu')]",1,Indonesia,INA,,,woman
+551,Badminton,Mixed Doubles,GOLD,"[('Yi Lyu WANG', 'https://olympics.com/en/athletes/yi-lyu-wang'), ('Dong Ping HUANG', 'https://olympics.com/en/athletes/dong-ping-huang')]",1,People's Republic of China,CHN,,,man
+520,Badminton,Men's Doubles,SILVER,"[('Jun Hui LI', 'https://olympics.com/en/athletes/jun-hui-li'), ('Yu Chen LIU', 'https://olympics.com/en/athletes/yu-chen-liu')]",2,People's Republic of China,CHN,,,man
+536,Badminton,Women's Doubles,SILVER,"[('Qing Chen CHEN', 'https://olympics.com/en/athletes/qing-chen-chen'), ('Yi Fan JIA', 'https://olympics.com/en/athletes/yi-fan-jia')]",2,People's Republic of China,CHN,,,woman
+552,Badminton,Mixed Doubles,SILVER,"[('Si Wei ZHENG', 'https://olympics.com/en/athletes/si-wei-zheng'), ('Ya Qiong HUANG', 'https://olympics.com/en/athletes/ya-qiong-huang')]",2,People's Republic of China,CHN,,,man
+521,Badminton,Men's Doubles,BRONZE,"[('Aaron CHIA', 'https://olympics.com/en/athletes/aaron-chia'), ('Wooi Yik SOH', 'https://olympics.com/en/athletes/wooi-yik-soh')]",3,Malaysia,MAS,,,man
+537,Badminton,Women's Doubles,BRONZE,"[('Soyeong KIM', 'https://olympics.com/en/athletes/soyeong-kim'), ('Heeyong KONG', 'https://olympics.com/en/athletes/heeyong-kong')]",3,Republic of Korea,KOR,,,woman
+553,Badminton,Mixed Doubles,BRONZE,"[('Yuta WATANABE', 'https://olympics.com/en/athletes/yuta-watanabe'), ('Arisa HIGASHINO', 'https://olympics.com/en/athletes/arisa-higashino')]",3,Japan,JPN,,,man
+522,Badminton,Men's Doubles,,"[('Mohammad AHSAN', 'https://olympics.com/en/athletes/mohammad-ahsan'), ('Hendra SETIAWAN', 'https://olympics.com/en/athletes/hendra-setiawan')]",4,Indonesia,INA,,,man
+538,Badminton,Women's Doubles,,"[('So Hee LEE', 'https://olympics.com/en/athletes/so-hee-lee'), ('Seung Chan SHIN', 'https://olympics.com/en/athletes/seung-chan-shin')]",4,Republic of Korea,KOR,,,woman
+554,Badminton,Mixed Doubles,,"[('Chun Man TANG', 'https://olympics.com/en/athletes/chun-man-tang'), ('Ying Suet TSE', 'https://olympics.com/en/athletes/ying-suet-tse')]",4,"Hong Kong, China",HKG,,,man
+523,Badminton,Men's Doubles,,"[('Kim ASTRUP', 'https://olympics.com/en/athletes/kim-astrup'), ('Anders Skaarup RASMUSSEN', 'https://olympics.com/en/athletes/anders-skaarup-rasmussen')]",5,Denmark,DEN,,,man
+524,Badminton,Men's Doubles,,"[('Hiroyuki ENDO', 'https://olympics.com/en/athletes/hiroyuki-endo'), ('Yuta WATANABE', 'https://olympics.com/en/athletes/yuta-watanabe')]",5,Japan,JPN,,,man
+525,Badminton,Men's Doubles,,"[('Marcus Fernaldi GIDEON', 'https://olympics.com/en/athletes/marcus-fernaldi-gideon'), ('Kevin Sanjaya SUKAMULJO', 'https://olympics.com/en/athletes/kevin-sanjaya-sukamuljo')]",5,Indonesia,INA,,,man
+749,Baseball/Softball,Baseball,GOLD,,1,Japan,JPN,,,man
+755,Baseball/Softball,Softball,GOLD,,1,Japan,JPN,,,man
+750,Baseball/Softball,Baseball,SILVER,,2,United States of America,USA,,,man
+756,Baseball/Softball,Softball,SILVER,,2,United States of America,USA,,,man
+751,Baseball/Softball,Baseball,BRONZE,,3,Dominican Republic,DOM,,,man
+757,Baseball/Softball,Softball,BRONZE,,3,Canada,CAN,,,man
+752,Baseball/Softball,Baseball,,,4,Republic of Korea,KOR,,,man
+758,Baseball/Softball,Softball,,,4,Mexico,MEX,,,man
+753,Baseball/Softball,Baseball,,,5,Israel,ISR,,,man
+759,Baseball/Softball,Softball,,,5,Australia,AUS,,,man
+754,Baseball/Softball,Baseball,,,6,Mexico,MEX,,,man
+760,Baseball/Softball,Softball,,,6,Italy,ITA,,,man
+380,Basketball,Men,GOLD,,1,United States of America,USA,,,man
+392,Basketball,Women,GOLD,,1,United States of America,USA,,,woman
+381,Basketball,Men,SILVER,,2,France,FRA,,,man
+393,Basketball,Women,SILVER,,2,Japan,JPN,,,woman
+382,Basketball,Men,BRONZE,,3,Australia,AUS,,,man
+394,Basketball,Women,BRONZE,,3,France,FRA,,,woman
+383,Basketball,Men,,,4,Slovenia,SLO,,,man
+395,Basketball,Women,,,4,Serbia,SRB,,,woman
+384,Basketball,Men,,,5,Italy,ITA,,,man
+396,Basketball,Women,,,5,People's Republic of China,CHN,,,woman
+385,Basketball,Men,,,6,Spain,ESP,,,man
+397,Basketball,Women,,,6,Spain,ESP,,,woman
+386,Basketball,Men,,,7,Argentina,ARG,,,man
+398,Basketball,Women,,,7,Belgium,BEL,,,woman
+387,Basketball,Men,,,8,Germany,GER,,,man
+1188,Beach Volleyball,Women,GOLD,"[('April ROSS', 'https://olympics.com/en/athletes/april-ross'), ('Alexandra KLINEMAN', 'https://olympics.com/en/athletes/alexandra-klineman')]",1,United States of America,USA,,,woman
+1212,Beach Volleyball,Men,GOLD,"[('Anders Berntsen MOL', 'https://olympics.com/en/athletes/anders-berntsen-mol'), ('Christian Sandlie SORUM', 'https://olympics.com/en/athletes/christian-sandlie-sorum')]",1,Norway,NOR,,,man
+1189,Beach Volleyball,Women,SILVER,"[('Mariafe ARTACHO DEL SOLAR', 'https://olympics.com/en/athletes/mariafe-artacho-del-solar'), ('Taliqua CLANCY', 'https://olympics.com/en/athletes/taliqua-clancy')]",2,Australia,AUS,,,woman
+1213,Beach Volleyball,Men,SILVER,"[('Viacheslav KRASILNIKOV', 'https://olympics.com/en/athletes/viacheslav-krasilnikov'), ('Oleg STOYANOVSKIY', 'https://olympics.com/en/athletes/oleg-stoyanovskiy')]",2,ROC,ROC,,,man
+1190,Beach Volleyball,Women,BRONZE,"[('Anouk VERGE-DEPRE', 'https://olympics.com/en/athletes/anouk-verge-depre'), ('Joana HEIDRICH', 'https://olympics.com/en/athletes/joana-heidrich')]",3,Switzerland,SUI,,,woman
+1214,Beach Volleyball,Men,BRONZE,"[('Cherif YOUNOUSSE', 'https://olympics.com/en/athletes/cherif-younousse'), ('Ahmed TIJAN', 'https://olympics.com/en/athletes/ahmed-tijan')]",3,Qatar,QAT,,,man
+1191,Beach Volleyball,Women,,"[('Tina GRAUDINA', 'https://olympics.com/en/athletes/tina-graudina'), ('Anastasija KRAVCENOKA', 'https://olympics.com/en/athletes/anastasija-kravcenoka')]",4,Latvia,LAT,,,woman
+1215,Beach Volleyball,Men,,"[('Martins PLAVINS', 'https://olympics.com/en/athletes/martins-plavins'), ('Edgars TOCS', 'https://olympics.com/en/athletes/edgars-tocs')]",4,Latvia,LAT,,,man
+1192,Beach Volleyball,Women,,"[('Ana Patricia SILVA RAMOS', 'https://olympics.com/en/athletes/ana-patricia-silva-ramos'), ('Rebecca SILVA', 'https://olympics.com/en/athletes/rebecca-silva')]",5,Brazil,BRA,,,woman
+1193,Beach Volleyball,Women,,"[('Heather BANSLEY', 'https://olympics.com/en/athletes/heather-bansley'), ('Brandie WILKERSON', 'https://olympics.com/en/athletes/brandie-wilkerson')]",5,Canada,CAN,,,woman
+1194,Beach Volleyball,Women,,"[('Sarah PAVAN', 'https://olympics.com/en/athletes/sarah-pavan'), ('Melissa HUMANA-PAREDES', 'https://olympics.com/en/athletes/melissa-humana-paredes')]",5,Canada,CAN,,,woman
+1195,Beach Volleyball,Women,,"[('Laura LUDWIG', 'https://olympics.com/en/athletes/laura-ludwig'), ('Margareta KOZUCH', 'https://olympics.com/en/athletes/margareta-kozuch')]",5,Germany,GER,,,woman
+1216,Beach Volleyball,Men,,"[('Alison CERUTTI', 'https://olympics.com/en/athletes/alison-cerutti'), ('Alvaro MORAIS FILHO', 'https://olympics.com/en/athletes/alvaro-morais-filho')]",5,Brazil,BRA,,,man
+1217,Beach Volleyball,Men,,"[('Julius THOLE', 'https://olympics.com/en/athletes/julius-thole'), ('Clemens WICKLER', 'https://olympics.com/en/athletes/clemens-wickler')]",5,Germany,GER,,,man
+1218,Beach Volleyball,Men,,"[('Paolo NICOLAI', 'https://olympics.com/en/athletes/paolo-nicolai'), ('Daniele LUPO', 'https://olympics.com/en/athletes/daniele-lupo')]",5,Italy,ITA,,,man
+96,Canoe Sprint,Men's Canoe Double 1000m,GOLD,"[('Serguey TORRES', 'https://olympics.com/en/athletes/serguey-torres'), ('Fernando Dayan JORGE', 'https://olympics.com/en/athletes/fernando-dayan-jorge')]",1,Cuba,CUB,,,man
+110,Canoe Sprint,Men's Kayak Four 500m,GOLD,,1,Germany,GER,,,man
+121,Canoe Sprint,Men's Kayak Double 1000m,GOLD,"[('Jean VAN DER WESTHUYZEN', 'https://olympics.com/en/athletes/jean-van-der-westhuyzen'), ('Thomas GREEN', 'https://olympics.com/en/athletes/thomas-green')]",1,Australia,AUS,,,man
+137,Canoe Sprint,Women's Canoe Double 500m,GOLD,"[('Shixiao XU', 'https://olympics.com/en/athletes/shixiao-xu'), ('Mengya SUN', 'https://olympics.com/en/athletes/mengya-sun')]",1,People's Republic of China,CHN,,,woman
+151,Canoe Sprint,Women's Kayak Four 500m,GOLD,,1,Hungary,HUN,,,woman
+163,Canoe Sprint,Women's Kayak Double 500m,GOLD,"[('Lisa CARRINGTON', 'https://olympics.com/en/athletes/lisa-carrington'), ('Caitlin RYAN', 'https://olympics.com/en/athletes/caitlin-ryan')]",1,New Zealand,NZL,,,woman
+97,Canoe Sprint,Men's Canoe Double 1000m,SILVER,"[('Hao LIU', 'https://olympics.com/en/athletes/hao-liu-x6188'), ('Pengfei ZHENG', 'https://olympics.com/en/athletes/pengfei-zheng')]",2,People's Republic of China,CHN,,,man
+111,Canoe Sprint,Men's Kayak Four 500m,SILVER,,2,Spain,ESP,,,man
+122,Canoe Sprint,Men's Kayak Double 1000m,SILVER,"[('Max HOFF', 'https://olympics.com/en/athletes/max-hoff'), ('Jacob SCHOPF', 'https://olympics.com/en/athletes/jacob-schopf')]",2,Germany,GER,,,man
+138,Canoe Sprint,Women's Canoe Double 500m,SILVER,"[('Liudmyla LUZAN', 'https://olympics.com/en/athletes/liudmyla-luzan'), ('Anastasiia CHETVERIKOVA', 'https://olympics.com/en/athletes/anastasiia-chetverikova')]",2,Ukraine,UKR,,,woman
+152,Canoe Sprint,Women's Kayak Four 500m,SILVER,,2,Belarus,BLR,,,woman
+164,Canoe Sprint,Women's Kayak Double 500m,SILVER,"[('Karolina NAJA', 'https://olympics.com/en/athletes/karolina-naja'), ('Anna PULAWSKA', 'https://olympics.com/en/athletes/anna-pulawska')]",2,Poland,POL,,,woman
+98,Canoe Sprint,Men's Canoe Double 1000m,BRONZE,"[('Sebastian BRENDEL', 'https://olympics.com/en/athletes/sebastian-brendel'), ('Tim HECKER', 'https://olympics.com/en/athletes/tim-hecker')]",3,Germany,GER,,,man
+112,Canoe Sprint,Men's Kayak Four 500m,BRONZE,,3,Slovakia,SVK,,,man
+123,Canoe Sprint,Men's Kayak Double 1000m,BRONZE,"[('Josef DOSTAL', 'https://olympics.com/en/athletes/josef-dostal'), ('Radek SLOUF', 'https://olympics.com/en/athletes/radek-slouf')]",3,Czech Republic,CZE,,,man
+404,Cycling Track,Women's Team Sprint,GOLD,,1,People's Republic of China,CHN,,,woman
+412,Cycling Track,Men's Madison,GOLD,,1,Denmark,DEN,,,man
+428,Cycling Track,Men's Team Pursuit,GOLD,,1,Italy,ITA,,,man
+436,Cycling Track,Women's Team Pursuit,GOLD,,1,Germany,GER,,,woman
+444,Cycling Track,Women's Madison,GOLD,"[('Katie ARCHIBALD', 'https://olympics.com/en/athletes/katie-archibald'), ('Laura KENNY', 'https://olympics.com/en/athletes/laura-kenny')]",1,Great Britain,GBR,,,woman
+459,Cycling Track,Men's Team Sprint,GOLD,,1,Netherlands,NED,,,man
+405,Cycling Track,Women's Team Sprint,SILVER,,2,Germany,GER,,,woman
+413,Cycling Track,Men's Madison,SILVER,,2,Great Britain,GBR,,,man
+429,Cycling Track,Men's Team Pursuit,SILVER,,2,Denmark,DEN,,,man
+437,Cycling Track,Women's Team Pursuit,SILVER,,2,Great Britain,GBR,,,woman
+445,Cycling Track,Women's Madison,SILVER,"[('Amalie DIDERIKSEN', 'https://olympics.com/en/athletes/amalie-dideriksen'), ('Julie LETH', 'https://olympics.com/en/athletes/julie-leth')]",2,Denmark,DEN,,,woman
+460,Cycling Track,Men's Team Sprint,SILVER,,2,Great Britain,GBR,,,man
+406,Cycling Track,Women's Team Sprint,BRONZE,,3,ROC,ROC,,,woman
+414,Cycling Track,Men's Madison,BRONZE,,3,France,FRA,,,man
+430,Cycling Track,Men's Team Pursuit,BRONZE,,3,Australia,AUS,,,man
+64,Diving,Men's Synchronised 3m Springboard,GOLD,"[('Zongyuan WANG', 'https://olympics.com/en/athletes/zongyuan-wang'), ('Siyi XIE', 'https://olympics.com/en/athletes/siyi-xie')]",1,People's Republic of China,CHN,467.82,POINTS,man
+72,Diving,Women's Synchronised 3m Springboard,GOLD,"[('Tingmao SHI', 'https://olympics.com/en/athletes/tingmao-shi'), ('Han WANG', 'https://olympics.com/en/athletes/han-wang')]",1,People's Republic of China,CHN,326.4,POINTS,woman
+80,Diving,Men's Synchronised 10m Platform,GOLD,"[('Thomas DALEY', 'https://olympics.com/en/athletes/thomas-daley'), ('Matty LEE', 'https://olympics.com/en/athletes/matty-lee')]",1,Great Britain,GBR,471.81,POINTS,man
+88,Diving,Women's Synchronised 10m Platform,GOLD,"[('Yuxi CHEN', 'https://olympics.com/en/athletes/yuxi-chen'), ('Jiaqi ZHANG', 'https://olympics.com/en/athletes/jiaqi-zhang')]",1,People's Republic of China,CHN,363.78,POINTS,woman
+65,Diving,Men's Synchronised 3m Springboard,SILVER,"[('Andrew CAPOBIANCO', 'https://olympics.com/en/athletes/andrew-capobianco'), ('Mike HIXON', 'https://olympics.com/en/athletes/mike-hixon')]",2,United States of America,USA,444.36,POINTS,man
+73,Diving,Women's Synchronised 3m Springboard,SILVER,"[('Jennifer ABEL', 'https://olympics.com/en/athletes/jennifer-abel'), ('Melissa CITRINI BEAULIEU', 'https://olympics.com/en/athletes/melissa-citrini-beaulieu')]",2,Canada,CAN,300.78,POINTS,woman
+81,Diving,Men's Synchronised 10m Platform,SILVER,"[('Yuan CAO', 'https://olympics.com/en/athletes/yuan-cao'), ('Aisen CHEN', 'https://olympics.com/en/athletes/aisen-chen')]",2,People's Republic of China,CHN,470.58,POINTS,man
+89,Diving,Women's Synchronised 10m Platform,SILVER,"[('Jessica PARRATTO', 'https://olympics.com/en/athletes/jessica-parratto'), ('Delaney SCHNELL', 'https://olympics.com/en/athletes/delaney-schnell')]",2,United States of America,USA,310.8,POINTS,woman
+66,Diving,Men's Synchronised 3m Springboard,BRONZE,"[('Patrick HAUSDING', 'https://olympics.com/en/athletes/patrick-hausding'), ('Lars RUDIGER', 'https://olympics.com/en/athletes/lars-rudiger')]",3,Germany,GER,404.73,POINTS,man
+74,Diving,Women's Synchronised 3m Springboard,BRONZE,"[('Lena HENTSCHEL', 'https://olympics.com/en/athletes/lena-hentschel'), ('Tina PUNZEL', 'https://olympics.com/en/athletes/tina-punzel')]",3,Germany,GER,284.97,POINTS,woman
+82,Diving,Men's Synchronised 10m Platform,BRONZE,"[('Aleksandr BONDAR', 'https://olympics.com/en/athletes/aleksandr-bondar'), ('Viktor MINIBAEV', 'https://olympics.com/en/athletes/viktor-minibaev')]",3,ROC,ROC,439.92,POINTS,man
+90,Diving,Women's Synchronised 10m Platform,BRONZE,"[('Gabriela Belem AGUNDEZ GARCIA', 'https://olympics.com/en/athletes/gabriela-belem-agundez-garcia'), ('Alejandra OROZCO', 'https://olympics.com/en/athletes/alejandra-orozco')]",3,Mexico,MEX,299.7,POINTS,woman
+67,Diving,Men's Synchronised 3m Springboard,,"[('Yahel CASTILLO', 'https://olympics.com/en/athletes/yahel-castillo'), ('Juan Manuel CELAYA HERNANDEZ', 'https://olympics.com/en/athletes/juan-manuel-celaya-hernandez')]",4,Mexico,MEX,400.14,POINTS,man
+75,Diving,Women's Synchronised 3m Springboard,,"[('Dolores HERNANDEZ', 'https://olympics.com/en/athletes/dolores-hernandez'), ('Carolina MENDOZA HERNANDEZ', 'https://olympics.com/en/athletes/carolina-mendoza-hernandez')]",4,Mexico,MEX,275.1,POINTS,woman
+83,Diving,Men's Synchronised 10m Platform,,"[('Jose Diego BALLEZA ISAIAS', 'https://olympics.com/en/athletes/jose-diego-balleza-isaias'), ('Kevin BERLIN REYES', 'https://olympics.com/en/athletes/kevin-berlin-reyes')]",4,Mexico,MEX,407.31,POINTS,man
+761,Equestrian,Dressage Team,GOLD,,1,Germany,GER,8178,POINTS,man
+776,Equestrian,Eventing Team,GOLD,,1,Great Britain,GBR,86.3,POINTS,man
+791,Equestrian,Jumping Team,GOLD,,1,Sweden,SWE,,,man
+762,Equestrian,Dressage Team,SILVER,,2,United States of America,USA,7747,POINTS,man
+777,Equestrian,Eventing Team,SILVER,,2,Australia,AUS,100.2,POINTS,man
+792,Equestrian,Jumping Team,SILVER,,2,United States of America,USA,,,man
+763,Equestrian,Dressage Team,BRONZE,,3,Great Britain,GBR,7723,POINTS,man
+778,Equestrian,Eventing Team,BRONZE,,3,France,FRA,101.5,POINTS,man
+793,Equestrian,Jumping Team,BRONZE,,3,Belgium,BEL,,,man
+764,Equestrian,Dressage Team,,,4,Denmark,DEN,7540,POINTS,man
+779,Equestrian,Eventing Team,,,4,Germany,GER,114.2,POINTS,man
+794,Equestrian,Jumping Team,,,4,Netherlands,NED,,,man
+765,Equestrian,Dressage Team,,,5,Netherlands,NED,7479.5,POINTS,man
+780,Equestrian,Eventing Team,,,5,New Zealand,NZL,116.4,POINTS,man
+795,Equestrian,Jumping Team,,,5,Switzerland,SUI,,,man
+467,Fencing,Women's Ã‰pÃ©e Team,GOLD,,1,Estonia,EST,,,woman
+475,Fencing,Men's Foil Team,GOLD,,1,France,FRA,,,man
+484,Fencing,Men's Ã‰pÃ©e Team,GOLD,,1,Japan,JPN,,,man
+493,Fencing,Women's Foil Team,GOLD,,1,ROC,ROC,,,woman
+501,Fencing,Women's Sabre Team,GOLD,,1,ROC,ROC,,,woman
+510,Fencing,Men's Sabre Team,GOLD,,1,Republic of Korea,KOR,,,man
+468,Fencing,Women's Ã‰pÃ©e Team,SILVER,,2,Republic of Korea,KOR,,,woman
+476,Fencing,Men's Foil Team,SILVER,,2,ROC,ROC,,,man
+485,Fencing,Men's Ã‰pÃ©e Team,SILVER,,2,ROC,ROC,,,man
+494,Fencing,Women's Foil Team,SILVER,,2,France,FRA,,,woman
+502,Fencing,Women's Sabre Team,SILVER,,2,France,FRA,,,woman
+511,Fencing,Men's Sabre Team,SILVER,,2,Italy,ITA,,,man
+469,Fencing,Women's Ã‰pÃ©e Team,BRONZE,,3,Italy,ITA,,,woman
+477,Fencing,Men's Foil Team,BRONZE,,3,United States of America,USA,,,man
+486,Fencing,Men's Ã‰pÃ©e Team,BRONZE,,3,Republic of Korea,KOR,,,man
+183,Football,Women,GOLD,,1,Canada,CAN,,,woman
+195,Football,Men,GOLD,,1,Brazil,BRA,,,man
+184,Football,Women,SILVER,,2,Sweden,SWE,,,woman
+196,Football,Men,SILVER,,2,Spain,ESP,,,man
+185,Football,Women,BRONZE,,3,United States of America,USA,,,woman
+197,Football,Men,BRONZE,,3,Mexico,MEX,,,man
+186,Football,Women,,,4,Australia,AUS,,,woman
+198,Football,Men,,,4,Japan,JPN,,,man
+187,Football,Women,,,5,Netherlands,NED,,,woman
+199,Football,Men,,,5,Republic of Korea,KOR,,,man
+188,Football,Women,,,6,Brazil,BRA,,,woman
+200,Football,Men,,,6,New Zealand,NZL,,,man
+189,Football,Women,,,7,Great Britain,GBR,,,woman
+201,Football,Men,,,7,CÃ´te d'Ivoire,CIV,,,man
+190,Football,Women,,,8,Japan,JPN,,,woman
+243,Handball,Men,GOLD,,1,France,FRA,,,man
+255,Handball,Women,GOLD,,1,France,FRA,,,woman
+244,Handball,Men,SILVER,,2,Denmark,DEN,,,man
+256,Handball,Women,SILVER,,2,ROC,ROC,,,woman
+245,Handball,Men,BRONZE,,3,Spain,ESP,,,man
+257,Handball,Women,BRONZE,,3,Norway,NOR,,,woman
+246,Handball,Men,,,4,Egypt,EGY,,,man
+258,Handball,Women,,,4,Sweden,SWE,,,woman
+247,Handball,Men,,,5,Sweden,SWE,,,man
+259,Handball,Women,,,5,Netherlands,NED,,,woman
+248,Handball,Men,,,6,Germany,GER,,,man
+260,Handball,Women,,,6,Montenegro,MNE,,,woman
+249,Handball,Men,,,7,Norway,NOR,,,man
+261,Handball,Women,,,7,Hungary,HUN,,,woman
+250,Handball,Men,,,8,Bahrain,BRN,,,man
+1164,Hockey,Men,GOLD,,1,Belgium,BEL,,,man
+1176,Hockey,Women,GOLD,,1,Netherlands,NED,,,woman
+1165,Hockey,Men,SILVER,,2,Australia,AUS,,,man
+1177,Hockey,Women,SILVER,,2,Argentina,ARG,,,woman
+1166,Hockey,Men,BRONZE,,3,India,IND,,,man
+1178,Hockey,Women,BRONZE,,3,Great Britain,GBR,,,woman
+1167,Hockey,Men,,,4,Germany,GER,,,man
+1179,Hockey,Women,,,4,India,IND,,,woman
+1168,Hockey,Men,,,5,Great Britain,GBR,,,man
+1180,Hockey,Women,,,5,Australia,AUS,,,woman
+1169,Hockey,Men,,,6,Netherlands,NED,,,man
+1181,Hockey,Women,,,6,Germany,GER,,,woman
+1170,Hockey,Men,,,7,Argentina,ARG,,,man
+1182,Hockey,Women,,,7,Spain,ESP,,,woman
+1171,Hockey,Men,,,8,Spain,ESP,,,man
+684,Judo,Mixed Team,GOLD,,1,France,FRA,,,man
+685,Judo,Mixed Team,SILVER,,2,Japan,JPN,,,man
+686,Judo,Mixed Team,BRONZE,,3,Germany,GER,,,man
+687,Judo,Mixed Team,BRONZE,,3,Israel,ISR,,,man
+688,Judo,Mixed Team,,,5,Netherlands,NED,,,man
+689,Judo,Mixed Team,,,5,ROC,ROC,,,man
+690,Judo,Mixed Team,,,7,Mongolia,MGL,,,man
+691,Judo,Mixed Team,,,7,Brazil,BRA,,,man
+692,Judo,Mixed Team,,,9,Refugee Olympic Team,EOR,,,man
+693,Judo,Mixed Team,,,9,Italy,ITA,,,man
+694,Judo,Mixed Team,,,9,Republic of Korea,KOR,,,man
+695,Judo,Mixed Team,,,9,Uzbekistan,UZB,,,man
+1156,Rhythmic Gymnastics,Group All-Around,GOLD,,1,Bulgaria,BUL,92.1,POINTS,man
+1157,Rhythmic Gymnastics,Group All-Around,SILVER,,2,ROC,ROC,90.7,POINTS,man
+1158,Rhythmic Gymnastics,Group All-Around,BRONZE,,3,Italy,ITA,87.7,POINTS,man
+1159,Rhythmic Gymnastics,Group All-Around,,,4,People's Republic of China,CHN,84.55,POINTS,man
+1160,Rhythmic Gymnastics,Group All-Around,,,5,Belarus,BLR,84.05,POINTS,man
+1161,Rhythmic Gymnastics,Group All-Around,,,6,Israel,ISR,83.85,POINTS,man
+1162,Rhythmic Gymnastics,Group All-Around,,,7,Ukraine,UKR,77.6,POINTS,man
+1163,Rhythmic Gymnastics,Group All-Around,,,8,Japan,JPN,72.5,POINTS,man
+998,Rowing,Women's Double Sculls,GOLD,"[('Ancuta BODNAR', 'https://olympics.com/en/athletes/ancuta-bodnar'), ('Simona RADIS', 'https://olympics.com/en/athletes/simona-radis')]",1,Romania,ROU,,,woman
+1011,Rowing,Lightweight Women's Double Sculls,GOLD,"[('Valentina RODINI', 'https://olympics.com/en/athletes/valentina-rodini'), ('Federica CESARINI', 'https://olympics.com/en/athletes/federica-cesarini')]",1,Italy,ITA,,TIME,woman
+1029,Rowing,Women's Eight,GOLD,,1,Canada,CAN,,,woman
+1036,Rowing,Men's Eight,GOLD,,1,New Zealand,NZL,,,man
+1043,Rowing,Men's Quadruple Sculls,GOLD,,1,Netherlands,NED,,,man
+1053,Rowing,Women's Quadruple Sculls,GOLD,,1,People's Republic of China,CHN,,,woman
+1063,Rowing,Men's Pair,GOLD,"[('Martin SINKOVIC', 'https://olympics.com/en/athletes/martin-sinkovic'), ('Valent SINKOVIC', 'https://olympics.com/en/athletes/valent-sinkovic')]",1,Croatia,CRO,,,man
+1076,Rowing,Women's Pair,GOLD,"[('Grace PRENDERGAST', 'https://olympics.com/en/athletes/grace-prendergast'), ('Kerri GOWLER', 'https://olympics.com/en/athletes/kerri-gowler')]",1,New Zealand,NZL,,,woman
+1089,Rowing,Women's Four,GOLD,,1,Australia,AUS,,TIME,woman
+1099,Rowing,Lightweight Men's Double Sculls,GOLD,"[('Fintan MC CARTHY', 'https://olympics.com/en/athletes/fintan-mc-carthy'), ('Paul ODONOVAN', 'https://olympics.com/en/athletes/paul-odonovan')]",1,Ireland,IRL,,TIME,man
+1117,Rowing,Men's Four,GOLD,,1,Australia,AUS,,,man
+1127,Rowing,Men's Double Sculls,GOLD,"[('Hugo BOUCHERON', 'https://olympics.com/en/athletes/hugo-boucheron'), ('Matthieu ANDRODIAS', 'https://olympics.com/en/athletes/matthieu-androdias')]",1,France,FRA,,,man
+999,Rowing,Women's Double Sculls,SILVER,"[('Brooke DONOGHUE', 'https://olympics.com/en/athletes/brooke-donoghue'), ('Hannah OSBORNE', 'https://olympics.com/en/athletes/hannah-osborne')]",2,New Zealand,NZL,,,woman
+1012,Rowing,Lightweight Women's Double Sculls,SILVER,"[('Laura TARANTOLA', 'https://olympics.com/en/athletes/laura-tarantola'), ('Claire BOVE', 'https://olympics.com/en/athletes/claire-bove')]",2,France,FRA,,TIME,woman
+1030,Rowing,Women's Eight,SILVER,,2,New Zealand,NZL,,,woman
+267,Rugby Sevens,Men,GOLD,,1,Fiji,FIJ,,,man
+279,Rugby Sevens,Women,GOLD,,1,New Zealand,NZL,,,woman
+268,Rugby Sevens,Men,SILVER,,2,New Zealand,NZL,,,man
+280,Rugby Sevens,Women,SILVER,,2,France,FRA,,,woman
+269,Rugby Sevens,Men,BRONZE,,3,Argentina,ARG,,,man
+281,Rugby Sevens,Women,BRONZE,,3,Fiji,FIJ,,,woman
+270,Rugby Sevens,Men,,,4,Great Britain,GBR,,,man
+282,Rugby Sevens,Women,,,4,Great Britain,GBR,,,woman
+271,Rugby Sevens,Men,,,5,South Africa,RSA,,,man
+283,Rugby Sevens,Women,,,5,Australia,AUS,,,woman
+272,Rugby Sevens,Men,,,6,United States of America,USA,,,man
+284,Rugby Sevens,Women,,,6,United States of America,USA,,,woman
+273,Rugby Sevens,Men,,,7,Australia,AUS,,,man
+285,Rugby Sevens,Women,,,7,People's Republic of China,CHN,,,woman
+274,Rugby Sevens,Men,,,8,Canada,CAN,,,man
+898,Sailing,470 Men,GOLD,"[('Mathew BELCHER', 'https://olympics.com/en/athletes/mathew-belcher'), ('Will RYAN', 'https://olympics.com/en/athletes/will-ryan')]",1,Australia,AUS,23,POINTS,man
+917,Sailing,Nacra 17 Mixed,GOLD,"[('Caterina BANTI', 'https://olympics.com/en/athletes/caterina-banti'), ('Ruggero TITA', 'https://olympics.com/en/athletes/ruggero-tita')]",1,Italy,ITA,35,POINTS,man
+937,Sailing,49er FX Women,GOLD,"[('Kahena KUNZE', 'https://olympics.com/en/athletes/kahena-kunze'), ('Martine GRAEL', 'https://olympics.com/en/athletes/martine-grael')]",1,Brazil,BRA,76,POINTS,woman
+958,Sailing,470 Women,GOLD,"[('Eilidh MCINTYRE', 'https://olympics.com/en/athletes/eilidh-mcintyre'), ('Hannah MILLS', 'https://olympics.com/en/athletes/hannah-mills')]",1,Great Britain,GBR,38,POINTS,woman
+979,Sailing,49er Men,GOLD,"[('Stuart BITHELL', 'https://olympics.com/en/athletes/stuart-bithell'), ('Dylan FLETCHER-SCOTT', 'https://olympics.com/en/athletes/dylan-fletcher-scott')]",1,Great Britain,GBR,58,POINTS,man
+899,Sailing,470 Men,SILVER,"[('Fredrik BERGSTROM', 'https://olympics.com/en/athletes/fredrik-bergstrom'), ('Anton DAHLBERG', 'https://olympics.com/en/athletes/anton-dahlberg')]",2,Sweden,SWE,45,POINTS,man
+918,Sailing,Nacra 17 Mixed,SILVER,"[('Anna BURNET', 'https://olympics.com/en/athletes/anna-burnet'), ('John GIMSON', 'https://olympics.com/en/athletes/john-gimson')]",2,Great Britain,GBR,45,POINTS,man
+938,Sailing,49er FX Women,SILVER,"[('Susann BEUCKE', 'https://olympics.com/en/athletes/susann-beucke'), ('Tina LUTZ', 'https://olympics.com/en/athletes/tina-lutz')]",2,Germany,GER,83,POINTS,woman
+959,Sailing,470 Women,SILVER,"[('Agnieszka SKRZYPULEC', 'https://olympics.com/en/athletes/agnieszka-skrzypulec'), ('Jolanta OGAR', 'https://olympics.com/en/athletes/jolanta-ogar')]",2,Poland,POL,54,POINTS,woman
+980,Sailing,49er Men,SILVER,"[('Peter BURLING', 'https://olympics.com/en/athletes/peter-burling'), ('Blair TUKE', 'https://olympics.com/en/athletes/blair-tuke')]",2,New Zealand,NZL,58,POINTS,man
+900,Sailing,470 Men,BRONZE,"[('Nicolas RODRIGUEZ GARCIA-PAZ', 'https://olympics.com/en/athletes/nicolas-rodriguez-garcia-paz'), ('Jordi XAMMAR HERNANDEZ', 'https://olympics.com/en/athletes/jordi-xammar-hernandez')]",3,Spain,ESP,55,POINTS,man
+919,Sailing,Nacra 17 Mixed,BRONZE,"[('Paul KOHLHOFF', 'https://olympics.com/en/athletes/paul-kohlhoff'), ('Alica STUHLEMMER', 'https://olympics.com/en/athletes/alica-stuhlemmer')]",3,Germany,GER,63,POINTS,man
+939,Sailing,49er FX Women,BRONZE,"[('Annemiek BEKKERING', 'https://olympics.com/en/athletes/annemiek-bekkering'), ('Annette DUETZ', 'https://olympics.com/en/athletes/annette-duetz')]",3,Netherlands,NED,88,POINTS,woman
+960,Sailing,470 Women,BRONZE,"[('Camille LECOINTRE', 'https://olympics.com/en/athletes/camille-lecointre'), ('Aloise RETORNAZ', 'https://olympics.com/en/athletes/aloise-retornaz')]",3,France,FRA,54,POINTS,woman
+981,Sailing,49er Men,BRONZE,"[('Erik HEIL', 'https://olympics.com/en/athletes/erik-heil'), ('Thomas PLOESSEL', 'https://olympics.com/en/athletes/thomas-ploessel')]",3,Germany,GER,70,POINTS,man
+0,Shooting,Trap Mixed Team,GOLD,"[('Fatima GALVEZ', 'https://olympics.com/en/athletes/fatima-galvez'), ('Alberto FERNANDEZ', 'https://olympics.com/en/athletes/alberto-fernandez-1')]",1,Spain,ESP,,,man
+16,Shooting,10m Air Rifle Mixed Team,GOLD,"[('Qian YANG', 'https://olympics.com/en/athletes/qian-yang'), ('Haoran YANG', 'https://olympics.com/en/athletes/haoran-yang')]",1,People's Republic of China,CHN,,,man
+44,Shooting,10m Air Pistol Mixed Team,GOLD,"[('Ranxin JIANG', 'https://olympics.com/en/athletes/ranxin-jiang'), ('Wei PANG', 'https://olympics.com/en/athletes/wei-pang')]",1,People's Republic of China,CHN,,,man
+1,Shooting,Trap Mixed Team,SILVER,"[('Alessandra PERILLI', 'https://olympics.com/en/athletes/alessandra-perilli'), ('Gian Marco BERTI', 'https://olympics.com/en/athletes/gian-marco-berti')]",2,San Marino,SMR,,,man
+17,Shooting,10m Air Rifle Mixed Team,SILVER,"[('Mary Carolynn TUCKER', 'https://olympics.com/en/athletes/mary-carolynn-tucker'), ('Lucas KOZENIESKY', 'https://olympics.com/en/athletes/lucas-kozeniesky')]",2,United States of America,USA,,,man
+45,Shooting,10m Air Pistol Mixed Team,SILVER,"[('Vitalina BATSARASHKINA', 'https://olympics.com/en/athletes/vitalina-batsarashkina'), ('Artem CHERNOUSOV', 'https://olympics.com/en/athletes/artem-chernousov')]",2,ROC,ROC,,,man
+2,Shooting,Trap Mixed Team,BRONZE,"[('Madelynn Ann BERNAU', 'https://olympics.com/en/athletes/madelynn-ann-bernau'), ('Brian BURROWS', 'https://olympics.com/en/athletes/brian-burrows')]",3,United States of America,USA,,,man
+46,Shooting,10m Air Pistol Mixed Team,BRONZE,"[('Olena KOSTEVYCH', 'https://olympics.com/en/athletes/olena-kostevych'), ('Oleh OMELCHUK', 'https://olympics.com/en/athletes/oleh-omelchuk')]",3,Ukraine,UKR,,,man
+3,Shooting,Trap Mixed Team,,"[('Zuzana STEFECEKOVA', 'https://olympics.com/en/athletes/zuzana-stefecekova'), ('Erik VARGA', 'https://olympics.com/en/athletes/erik-varga')]",4,Slovakia,SVK,,,man
+18,Shooting,10m Air Rifle Mixed Team,,"[('Eunji KWON', 'https://olympics.com/en/athletes/eunji-kwon'), ('Taeyun NAM', 'https://olympics.com/en/athletes/taeyun-nam')]",4,Republic of Korea,KOR,,,man
+47,Shooting,10m Air Pistol Mixed Team,,"[('Zorana ARUNOVIC', 'https://olympics.com/en/athletes/zorana-arunovic'), ('Damir MIKEC', 'https://olympics.com/en/athletes/damir-mikec')]",4,Serbia,SRB,,,man
+4,Shooting,Trap Mixed Team,,"[('Yukie NAKAYAMA', 'https://olympics.com/en/athletes/yukie-nakayama'), ('Shigetaka OYAMA', 'https://olympics.com/en/athletes/shigetaka-oyama')]",5,Japan,JPN,,,man
+19,Shooting,10m Air Rifle Mixed Team,,"[('Eunji KWON', 'https://olympics.com/en/athletes/eunji-kwon'), ('Taeyun NAM', 'https://olympics.com/en/athletes/taeyun-nam')]",5,ROC,ROC,,,man
+48,Shooting,10m Air Pistol Mixed Team,,"[('Haniyeh ROSTAMIYAN', 'https://olympics.com/en/athletes/haniyeh-rostamiyan'), ('Javad FOROUGHI', 'https://olympics.com/en/athletes/javad-foroughi')]",5,Islamic Republic of Iran,IRI,,,man
+5,Shooting,Trap Mixed Team,,"[('Penny SMITH', 'https://olympics.com/en/athletes/penny-smith'), ('Thomas Derek GRICE', 'https://olympics.com/en/athletes/thomas-derek-grice')]",6,Australia,AUS,,,man
+842,Swimming,Mixed 4 x 100m Medley Relay,GOLD,,1,Great Britain,GBR,00:03:38.750000,TIME,man
+850,Swimming,Men's 4 x 100m Medley Relay,GOLD,,1,United States of America,USA,00:03:32.290000,TIME,man
+858,Swimming,Men's 4 x 200m Freestyle Relay,GOLD,,1,Great Britain,GBR,00:07:03.250000,TIME,man
+866,Swimming,Women's 4 x 100m Freestyle Relay,GOLD,,1,Australia,AUS,00:03:31.730000,TIME,woman
+874,Swimming,Men's 4 x 100m Freestyle Relay,GOLD,,1,United States of America,USA,00:03:11.330000,TIME,man
+882,Swimming,Women's 4 x 200m Freestyle Relay,GOLD,,1,People's Republic of China,CHN,00:07:48.980000,TIME,woman
+890,Swimming,Women's 4 x 100m Medley Relay,GOLD,,1,Australia,AUS,00:03:51.600000,TIME,woman
+843,Swimming,Mixed 4 x 100m Medley Relay,SILVER,,2,People's Republic of China,CHN,00:03:42.290000,TIME,man
+851,Swimming,Men's 4 x 100m Medley Relay,SILVER,,2,Great Britain,GBR,00:03:31.470000,TIME,man
+859,Swimming,Men's 4 x 200m Freestyle Relay,SILVER,,2,ROC,ROC,00:07:05.160000,TIME,man
+867,Swimming,Women's 4 x 100m Freestyle Relay,SILVER,,2,Canada,CAN,00:03:33.720000,TIME,woman
+875,Swimming,Men's 4 x 100m Freestyle Relay,SILVER,,2,Italy,ITA,00:03:10.290000,TIME,man
+883,Swimming,Women's 4 x 200m Freestyle Relay,SILVER,,2,United States of America,USA,00:07:47.570000,TIME,woman
+891,Swimming,Women's 4 x 100m Medley Relay,SILVER,,2,United States of America,USA,00:03:51.730000,TIME,woman
+844,Swimming,Mixed 4 x 100m Medley Relay,BRONZE,,3,Australia,AUS,00:03:42.350000,TIME,man
+308,Table Tennis,Women's Team,GOLD,,1,People's Republic of China,CHN,,,woman
+324,Table Tennis,Mixed Doubles,GOLD,"[('Jun MIZUTANI', 'https://olympics.com/en/athletes/jun-mizutani'), ('Mima ITO', 'https://olympics.com/en/athletes/mima-ito')]",1,Japan,JPN,,,man
+340,Table Tennis,Men's Team,GOLD,,1,People's Republic of China,CHN,,,man
+309,Table Tennis,Women's Team,SILVER,,2,Japan,JPN,,,woman
+325,Table Tennis,Mixed Doubles,SILVER,"[('Xin XU', 'https://olympics.com/en/athletes/xin-xu'), ('Shiwen LIU', 'https://olympics.com/en/athletes/shiwen-liu')]",2,People's Republic of China,CHN,,,man
+341,Table Tennis,Men's Team,SILVER,,2,Germany,GER,,,man
+310,Table Tennis,Women's Team,BRONZE,,3,"Hong Kong, China",HKG,,,woman
+326,Table Tennis,Mixed Doubles,BRONZE,"[('Yun Ju LIN', 'https://olympics.com/en/athletes/yun-ju-lin'), ('I-Ching CHENG', 'https://olympics.com/en/athletes/i-ching-cheng')]",3,Chinese Taipei,TPE,,,man
+342,Table Tennis,Men's Team,BRONZE,,3,Japan,JPN,,,man
+311,Table Tennis,Women's Team,,,4,Germany,GER,,,woman
+327,Table Tennis,Mixed Doubles,,"[('Emmanuel LEBESSON', 'https://olympics.com/en/athletes/emmanuel-lebesson'), ('Jia Nan YUAN', 'https://olympics.com/en/athletes/jia-nan-yuan')]",4,France,FRA,,,man
+343,Table Tennis,Men's Team,,,4,Republic of Korea,KOR,,,man
+312,Table Tennis,Women's Team,,,5,Republic of Korea,KOR,,,woman
+313,Table Tennis,Women's Team,,,5,Romania,ROU,,,woman
+314,Table Tennis,Women's Team,,,5,Singapore,SGP,,,woman
+589,Tennis,Mixed Doubles,GOLD,"[('Anastasia PAVLYUCHENKOVA', 'https://olympics.com/en/athletes/anastasia-pavlyuchenkova'), ('Andrey Rublev', 'https://olympics.com/en/athletes/andrey-rublev')]",1,ROC,ROC,,,man
+605,Tennis,Men's Doubles,GOLD,"[('Nikola MEKTIC', 'https://olympics.com/en/athletes/nikola-mektic'), ('Mate PAVIC', 'https://olympics.com/en/athletes/mate-pavic')]",1,Croatia,CRO,,,man
+636,Tennis,Women's Doubles,GOLD,"[('Barbora KREJCIKOVA', 'https://olympics.com/en/athletes/barbora-krejcikova'), ('Katerina SINIAKOVA', 'https://olympics.com/en/athletes/katerina-siniakova')]",1,Czech Republic,CZE,,,woman
+590,Tennis,Mixed Doubles,SILVER,"[('Elena VESNINA', 'https://olympics.com/en/athletes/elena-vesnina'), ('Aslan KARATSEV', 'https://olympics.com/en/athletes/aslan-karatsev')]",2,ROC,ROC,,,man
+606,Tennis,Men's Doubles,SILVER,"[('Marin CILIC', 'https://olympics.com/en/athletes/marin-cilic'), ('Ivan DODIG', 'https://olympics.com/en/athletes/ivan-dodig')]",2,Croatia,CRO,,,man
+637,Tennis,Women's Doubles,SILVER,"[('Belinda BENCIC', 'https://olympics.com/en/athletes/belinda-bencic'), ('Viktorija GOLUBIC', 'https://olympics.com/en/athletes/viktorija-golubic')]",2,Switzerland,SUI,,,woman
+591,Tennis,Mixed Doubles,BRONZE,"[('Ashleigh BARTY', 'https://olympics.com/en/athletes/ashleigh-barty'), ('John PEERS', 'https://olympics.com/en/athletes/john-peers')]",3,Australia,AUS,,,man
+607,Tennis,Men's Doubles,BRONZE,"[('Marcus DANIELL', 'https://olympics.com/en/athletes/marcus-daniell'), ('Michael VENUS', 'https://olympics.com/en/athletes/michael-venus')]",3,New Zealand,NZL,,,man
+638,Tennis,Women's Doubles,BRONZE,"[('Laura PIGOSSI', 'https://olympics.com/en/athletes/laura-pigossi'), ('Luisa VERAS STEFANI', 'https://olympics.com/en/athletes/luisa-veras-stefani')]",3,Brazil,BRA,,,woman
+592,Tennis,Mixed Doubles,,"[('Nina STOJANOVIC', 'https://olympics.com/en/athletes/nina-stojanovic'), ('Novak DJOKOVIC', 'https://olympics.com/en/athletes/novak-djokovic')]",4,Serbia,SRB,,,man
+608,Tennis,Men's Doubles,,"[('Austin KRAJICEK', 'https://olympics.com/en/athletes/austin-krajicek'), ('Tennys SANDGREN', 'https://olympics.com/en/athletes/tennys-sandgren')]",4,United States of America,USA,,,man
+639,Tennis,Women's Doubles,,"[('Laura PIGOSSI', 'https://olympics.com/en/athletes/laura-pigossi'), ('Luisa VERAS STEFANI', 'https://olympics.com/en/athletes/luisa-veras-stefani')]",4,ROC,ROC,,,woman
+593,Tennis,Mixed Doubles,,"[('Maria SAKKARI', 'https://olympics.com/en/athletes/maria-sakkari'), ('Stefanos Tsitsipas', 'https://olympics.com/en/athletes/stefanos-tsitsipas')]",5,Greece,GRE,,,man
+594,Tennis,Mixed Doubles,,"[('Ena SHIBAHARA', 'https://olympics.com/en/athletes/ena-shibahara'), ('Ben MCLACHLAN', 'https://olympics.com/en/athletes/ben-mclachlan')]",5,Japan,JPN,,,man
+595,Tennis,Mixed Doubles,,"[('Laura SIEGEMUND', 'https://olympics.com/en/athletes/laura-siegemund'), ('Kevin KRAWIETZ', 'https://olympics.com/en/athletes/kevin-krawietz')]",5,Germany,GER,,,man
+291,Triathlon,Mixed Relay,GOLD,,1,Great Britain,GBR,,,man
+292,Triathlon,Mixed Relay,SILVER,,2,United States of America,USA,,,man
+293,Triathlon,Mixed Relay,BRONZE,,3,France,FRA,,,man
+294,Triathlon,Mixed Relay,,,4,Netherlands,NED,,,man
+295,Triathlon,Mixed Relay,,,5,Belgium,BEL,,,man
+296,Triathlon,Mixed Relay,,,6,Germany,GER,,,man
+297,Triathlon,Mixed Relay,,,7,Switzerland,SUI,,,man
+298,Triathlon,Mixed Relay,,,8,Italy,ITA,,,man
+299,Triathlon,Mixed Relay,,,9,Australia,AUS,,,man
+300,Triathlon,Mixed Relay,,,10,Spain,ESP,,,man
+301,Triathlon,Mixed Relay,,,11,Hungary,HUN,,,man
+302,Triathlon,Mixed Relay,,,12,New Zealand,NZL,,,man
+303,Triathlon,Mixed Relay,,,13,Japan,JPN,,,man
+304,Triathlon,Mixed Relay,,,14,ROC,ROC,,,man
+305,Triathlon,Mixed Relay,,,15,Canada,CAN,,,man
+356,Volleyball,Men,GOLD,,1,France,FRA,,,man
+368,Volleyball,Women,GOLD,,1,United States of America,USA,,,woman
+357,Volleyball,Men,SILVER,,2,ROC,ROC,,,man
+369,Volleyball,Women,SILVER,,2,Brazil,BRA,,,woman
+358,Volleyball,Men,BRONZE,,3,Argentina,ARG,,,man
+370,Volleyball,Women,BRONZE,,3,Serbia,SRB,,,woman
+359,Volleyball,Men,,,4,Brazil,BRA,,,man
+371,Volleyball,Women,,,4,Republic of Korea,KOR,,,woman
+360,Volleyball,Men,,,5,Poland,POL,,,man
+372,Volleyball,Women,,,5,Turkey,TUR,,,woman
+361,Volleyball,Men,,,6,Italy,ITA,,,man
+373,Volleyball,Women,,,6,Italy,ITA,,,woman
+362,Volleyball,Men,,,7,Japan,JPN,,,man
+374,Volleyball,Women,,,7,ROC,ROC,,,woman
+363,Volleyball,Men,,,8,Canada,CAN,,,man
+567,Water Polo,Men,GOLD,,1,Serbia,SRB,,,man
+579,Water Polo,Women,GOLD,,1,United States of America,USA,,,woman
+568,Water Polo,Men,SILVER,,2,Greece,GRE,,,man
+580,Water Polo,Women,SILVER,,2,Spain,ESP,,,woman
+569,Water Polo,Men,BRONZE,,3,Hungary,HUN,,,man
+581,Water Polo,Women,BRONZE,,3,Hungary,HUN,,,woman
+570,Water Polo,Men,,,4,Spain,ESP,,,man
+582,Water Polo,Women,,,4,ROC,ROC,,,woman
+571,Water Polo,Men,,,5,Croatia,CRO,,,man
+583,Water Polo,Women,,,5,Australia,AUS,,,woman
+572,Water Polo,Men,,,6,United States of America,USA,,,man
+584,Water Polo,Women,,,6,Netherlands,NED,,,woman
+573,Water Polo,Men,,,7,Italy,ITA,,,man
+585,Water Polo,Women,,,7,Canada,CAN,,,woman
+574,Water Polo,Men,,,8,Montenegro,MNE,,,man

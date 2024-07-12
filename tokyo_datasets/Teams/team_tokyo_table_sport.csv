@@ -1,0 +1,610 @@
+country_name,sport,BRONZE,GOLD,SILVER,TOTAL
+Algeria,Rowing,0,0,0,0
+American Samoa,Sailing,0,0,0,0
+Angola,Handball,0,0,0,0
+Angola,Sailing,0,0,0,0
+Argentina,Basketball,0,0,0,0
+Argentina,Beach Volleyball,0,0,0,0
+Argentina,Equestrian,0,0,0,0
+Argentina,Football,0,0,0,0
+Argentina,Handball,0,0,0,0
+Argentina,Hockey,0,0,1,1
+Argentina,Rowing,0,0,0,0
+Argentina,Rugby Sevens,1,0,0,1
+Argentina,Sailing,0,0,0,0
+Argentina,Shooting,0,0,0,0
+Argentina,Tennis,0,0,0,0
+Argentina,Volleyball,1,0,0,1
+Australia,Archery,0,0,0,0
+Australia,Artistic Swimming,0,0,0,0
+Australia,Badminton,0,0,0,0
+Australia,Baseball/Softball,0,0,0,0
+Australia,Basketball,1,0,0,1
+Australia,Beach Volleyball,0,0,1,1
+Australia,Canoe Sprint,0,1,0,1
+Australia,Cycling Track,1,0,0,1
+Australia,Equestrian,0,0,1,1
+Australia,Football,0,0,0,0
+Australia,Hockey,0,0,1,1
+Australia,Rowing,2,2,0,4
+Australia,Rugby Sevens,0,0,0,0
+Australia,Sailing,0,1,0,1
+Australia,Shooting,0,0,0,0
+Australia,Swimming,4,2,0,6
+Australia,Table Tennis,0,0,0,0
+Australia,Tennis,1,0,0,1
+Australia,Triathlon,0,0,0,0
+Australia,Water Polo,0,0,0,0
+Austria,Artistic Swimming,0,0,0,0
+Austria,Canoe Sprint,0,0,0,0
+Austria,Cycling Track,0,0,0,0
+Austria,Equestrian,0,0,0,0
+Austria,Rowing,0,0,0,0
+Austria,Sailing,0,0,0,0
+Austria,Table Tennis,0,0,0,0
+Austria,Tennis,0,0,0,0
+Austria,Triathlon,0,0,0,0
+Bahrain,Handball,0,0,0,0
+Bangladesh,Archery,0,0,0,0
+Belarus,Archery,0,0,0,0
+Belarus,Artistic Swimming,0,0,0,0
+Belarus,Canoe Sprint,0,0,1,1
+Belarus,Rhythmic Gymnastics,0,0,0,0
+Belarus,Rowing,0,0,0,0
+Belarus,Shooting,0,0,0,0
+Belarus,Tennis,0,0,0,0
+Belgium,3x3 Basketball,0,0,0,0
+Belgium,Artistic Gymnastics,0,0,0,0
+Belgium,Athletics,0,0,0,0
+Belgium,Basketball,0,0,0,0
+Belgium,Canoe Sprint,0,0,0,0
+Belgium,Cycling Track,0,0,0,0
+Belgium,Equestrian,1,0,0,1
+Belgium,Hockey,0,1,0,1
+Belgium,Rowing,0,0,0,0
+Belgium,Sailing,0,0,0,0
+Belgium,Tennis,0,0,0,0
+Belgium,Triathlon,0,0,0,0
+Botswana,Athletics,1,0,0,1
+Brazil,Archery,0,0,0,0
+Brazil,Beach Volleyball,0,0,0,0
+Brazil,Canoe Sprint,0,0,0,0
+Brazil,Equestrian,0,0,0,0
+Brazil,Football,0,1,0,1
+Brazil,Handball,0,0,0,0
+Brazil,Judo,0,0,0,0
+Brazil,Rugby Sevens,0,0,0,0
+Brazil,Sailing,0,1,0,1
+Brazil,Swimming,0,0,0,0
+Brazil,Table Tennis,0,0,0,0
+Brazil,Tennis,1,0,0,1
+Brazil,Volleyball,0,0,1,1
+Bulgaria,Badminton,0,0,0,0
+Bulgaria,Rhythmic Gymnastics,0,1,0,1
+Canada,Archery,0,0,0,0
+Canada,Artistic Swimming,0,0,0,0
+Canada,Athletics,1,0,0,1
+Canada,Badminton,0,0,0,0
+Canada,Baseball/Softball,1,0,0,1
+Canada,Basketball,0,0,0,0
+Canada,Beach Volleyball,0,0,0,0
+Canada,Canoe Sprint,1,0,0,1
+Canada,Cycling Track,0,0,0,0
+Canada,Diving,0,0,1,1
+Canada,Equestrian,0,0,0,0
+Canada,Fencing,0,0,0,0
+Canada,Football,0,1,0,1
+Canada,Hockey,0,0,0,0
+Canada,Rowing,1,1,0,2
+Canada,Rugby Sevens,0,0,0,0
+Canada,Sailing,0,0,0,0
+Canada,Swimming,1,0,1,2
+Canada,Table Tennis,0,0,0,0
+Canada,Tennis,0,0,0,0
+Canada,Triathlon,0,0,0,0
+Canada,Volleyball,0,0,0,0
+Canada,Water Polo,0,0,0,0
+Chile,Beach Volleyball,0,0,0,0
+Chile,Canoe Sprint,0,0,0,0
+Chile,Football,0,0,0,0
+Chile,Rowing,0,0,0,0
+Chinese Taipei,Archery,0,0,1,1
+Chinese Taipei,Badminton,0,1,0,1
+Chinese Taipei,Shooting,0,0,0,0
+Chinese Taipei,Table Tennis,1,0,0,1
+Chinese Taipei,Tennis,0,0,0,0
+Colombia,Archery,0,0,0,0
+Colombia,Artistic Swimming,0,0,0,0
+Colombia,Tennis,0,0,0,0
+Croatia,Rowing,0,1,0,1
+Croatia,Sailing,0,0,0,0
+Croatia,Shooting,0,0,0,0
+Croatia,Table Tennis,0,0,0,0
+Croatia,Tennis,0,1,1,2
+Croatia,Water Polo,0,0,0,0
+Cuba,Athletics,0,0,0,0
+Cuba,Beach Volleyball,0,0,0,0
+Cuba,Canoe Sprint,0,1,0,1
+Cuba,Shooting,0,0,0,0
+Cuba,Table Tennis,0,0,0,0
+Czech Republic,Basketball,0,0,0,0
+Czech Republic,Beach Volleyball,0,0,0,0
+Czech Republic,Canoe Sprint,1,0,0,1
+Czech Republic,Rowing,0,0,0,0
+Czech Republic,Shooting,0,0,0,0
+Czech Republic,Tennis,0,1,0,1
+CÃ´te d'Ivoire,Football,0,0,0,0
+Denmark,Badminton,0,0,0,0
+Denmark,Canoe Sprint,0,0,0,0
+Denmark,Cycling Track,0,1,2,3
+Denmark,Equestrian,0,0,0,0
+Denmark,Handball,0,0,1,1
+Denmark,Rowing,1,0,0,1
+Denmark,Sailing,0,0,0,0
+Denmark,Shooting,0,0,0,0
+Denmark,Swimming,0,0,0,0
+Dominican Republic,Athletics,0,0,1,1
+Dominican Republic,Baseball/Softball,1,0,0,1
+Dominican Republic,Volleyball,0,0,0,0
+Egypt,Archery,0,0,0,0
+Egypt,Artistic Swimming,0,0,0,0
+Egypt,Badminton,0,0,0,0
+Egypt,Fencing,0,0,0,0
+Egypt,Football,0,0,0,0
+Egypt,Handball,0,0,0,0
+Egypt,Shooting,0,0,0,0
+Egypt,Table Tennis,0,0,0,0
+Estonia,Fencing,0,1,0,1
+Estonia,Rowing,0,0,0,0
+Fiji,Rugby Sevens,1,1,0,2
+Finland,Sailing,0,0,0,0
+France,3x3 Basketball,0,0,0,0
+France,Archery,0,0,0,0
+France,Artistic Gymnastics,0,0,0,0
+France,Artistic Swimming,0,0,0,0
+France,Athletics,0,0,0,0
+France,Badminton,0,0,0,0
+France,Basketball,1,0,1,2
+France,Canoe Sprint,0,0,0,0
+France,Cycling Track,2,0,0,2
+France,Equestrian,1,0,0,1
+France,Fencing,0,1,2,3
+France,Football,0,0,0,0
+France,Handball,0,2,0,2
+France,Judo,0,1,0,1
+France,Rowing,0,1,1,2
+France,Rugby Sevens,0,0,1,1
+France,Sailing,1,0,0,1
+France,Swimming,0,0,0,0
+France,Table Tennis,0,0,0,0
+France,Tennis,0,0,0,0
+France,Triathlon,1,0,0,1
+France,Volleyball,0,1,0,1
+Germany,Archery,1,0,0,1
+Germany,Artistic Gymnastics,0,0,0,0
+Germany,Athletics,0,0,0,0
+Germany,Badminton,0,0,0,0
+Germany,Basketball,0,0,0,0
+Germany,Beach Volleyball,0,0,0,0
+Germany,Canoe Sprint,1,1,1,3
+Germany,Cycling Track,0,1,1,2
+Germany,Diving,2,0,0,2
+Germany,Equestrian,0,1,0,1
+Germany,Fencing,0,0,0,0
+Germany,Football,0,0,0,0
+Germany,Handball,0,0,0,0
+Germany,Hockey,0,0,0,0
+Germany,Judo,1,0,0,1
+Germany,Rowing,0,0,2,2
+Germany,Sailing,2,0,1,3
+Germany,Shooting,0,0,0,0
+Germany,Swimming,0,0,0,0
+Germany,Table Tennis,0,0,1,1
+Germany,Tennis,0,0,0,0
+Germany,Triathlon,0,0,0,0
+Ghana,Athletics,0,0,0,0
+Great Britain,Archery,0,0,0,0
+Great Britain,Artistic Gymnastics,1,0,0,1
+Great Britain,Artistic Swimming,0,0,0,0
+Great Britain,Athletics,1,0,1,2
+Great Britain,Badminton,0,0,0,0
+Great Britain,Cycling Track,0,1,3,4
+Great Britain,Diving,0,1,0,1
+Great Britain,Equestrian,1,1,0,2
+Great Britain,Football,0,0,0,0
+Great Britain,Hockey,1,0,0,1
+Great Britain,Rowing,1,0,1,2
+Great Britain,Rugby Sevens,0,0,0,0
+Great Britain,Sailing,0,2,1,3
+Great Britain,Shooting,0,0,0,0
+Great Britain,Swimming,0,2,1,3
+Great Britain,Tennis,0,0,0,0
+Great Britain,Triathlon,0,1,0,1
+Greece,Artistic Swimming,0,0,0,0
+Greece,Rowing,0,0,0,0
+Greece,Sailing,0,0,0,0
+Greece,Tennis,0,0,0,0
+Greece,Water Polo,0,0,1,1
+Guatemala,Rowing,0,0,0,0
+Honduras,Football,0,0,0,0
+"Hong Kong, China",Badminton,0,0,0,0
+"Hong Kong, China",Cycling Track,0,0,0,0
+"Hong Kong, China",Fencing,0,0,0,0
+"Hong Kong, China",Table Tennis,1,0,0,1
+Hungary,Canoe Sprint,1,1,0,2
+Hungary,Fencing,1,0,0,1
+Hungary,Handball,0,0,0,0
+Hungary,Shooting,0,0,0,0
+Hungary,Swimming,0,0,0,0
+Hungary,Table Tennis,0,0,0,0
+Hungary,Triathlon,0,0,0,0
+Hungary,Water Polo,2,0,0,2
+India,Archery,0,0,0,0
+India,Badminton,0,0,0,0
+India,Hockey,1,0,0,1
+India,Rowing,0,0,0,0
+India,Sailing,0,0,0,0
+India,Shooting,0,0,0,0
+India,Table Tennis,0,0,0,0
+India,Tennis,0,0,0,0
+Indonesia,Archery,0,0,0,0
+Indonesia,Badminton,0,1,0,1
+Indonesia,Rowing,0,0,0,0
+Ireland,Athletics,0,0,0,0
+Ireland,Cycling Track,0,0,0,0
+Ireland,Equestrian,0,0,0,0
+Ireland,Hockey,0,0,0,0
+Ireland,Rowing,1,1,0,2
+Ireland,Rugby Sevens,0,0,0,0
+Ireland,Sailing,0,0,0,0
+Islamic Republic of Iran,Basketball,0,0,0,0
+Islamic Republic of Iran,Fencing,0,0,0,0
+Islamic Republic of Iran,Shooting,0,0,0,0
+Islamic Republic of Iran,Volleyball,0,0,0,0
+Israel,Artistic Swimming,0,0,0,0
+Israel,Baseball/Softball,0,0,0,0
+Israel,Judo,1,0,0,1
+Israel,Rhythmic Gymnastics,0,0,0,0
+Israel,Sailing,0,0,0,0
+Israel,Swimming,0,0,0,0
+Italy,3x3 Basketball,0,0,0,0
+Italy,Archery,0,0,0,0
+Italy,Artistic Gymnastics,0,0,0,0
+Italy,Artistic Swimming,0,0,0,0
+Italy,Athletics,0,1,0,1
+Italy,Baseball/Softball,0,0,0,0
+Italy,Basketball,0,0,0,0
+Italy,Beach Volleyball,0,0,0,0
+Italy,Canoe Sprint,0,0,0,0
+Italy,Cycling Track,0,1,0,1
+Italy,Diving,0,0,0,0
+Italy,Equestrian,0,0,0,0
+Italy,Fencing,2,0,1,3
+Italy,Judo,0,0,0,0
+Italy,Rhythmic Gymnastics,1,0,0,1
+Italy,Rowing,2,1,0,3
+Italy,Sailing,0,1,0,1
+Italy,Shooting,0,0,0,0
+Italy,Swimming,1,0,1,2
+Italy,Tennis,0,0,0,0
+Italy,Triathlon,0,0,0,0
+Italy,Volleyball,0,0,0,0
+Italy,Water Polo,0,0,0,0
+Jamaica,Athletics,1,1,0,2
+Japan,3x3 Basketball,0,0,0,0
+Japan,Archery,1,0,0,1
+Japan,Artistic Gymnastics,0,0,1,1
+Japan,Artistic Swimming,0,0,0,0
+Japan,Athletics,0,0,0,0
+Japan,Badminton,1,0,0,1
+Japan,Baseball/Softball,0,2,0,2
+Japan,Basketball,0,0,1,1
+Japan,Beach Volleyball,0,0,0,0
+Japan,Canoe Sprint,0,0,0,0
+Japan,Cycling Track,0,0,0,0
+Japan,Diving,0,0,0,0
+Japan,Equestrian,0,0,0,0
+Japan,Fencing,0,1,0,1
+Japan,Football,0,0,0,0
+Japan,Handball,0,0,0,0
+Japan,Hockey,0,0,0,0
+Japan,Judo,0,0,1,1
+Japan,Rhythmic Gymnastics,0,0,0,0
+Japan,Rowing,0,0,0,0
+Japan,Rugby Sevens,0,0,0,0
+Japan,Sailing,0,0,0,0
+Japan,Shooting,0,0,0,0
+Japan,Swimming,0,0,0,0
+Japan,Table Tennis,1,1,1,3
+Japan,Tennis,0,0,0,0
+Japan,Triathlon,0,0,0,0
+Japan,Volleyball,0,0,0,0
+Japan,Water Polo,0,0,0,0
+Kazakhstan,Archery,0,0,0,0
+Kazakhstan,Artistic Swimming,0,0,0,0
+Kazakhstan,Canoe Sprint,0,0,0,0
+Kazakhstan,Tennis,0,0,0,0
+Kazakhstan,Water Polo,0,0,0,0
+Kenya,Beach Volleyball,0,0,0,0
+Kenya,Rugby Sevens,0,0,0,0
+Kenya,Volleyball,0,0,0,0
+Latvia,3x3 Basketball,0,1,0,1
+Latvia,Beach Volleyball,0,0,0,0
+Latvia,Tennis,0,0,0,0
+Liechtenstein,Artistic Swimming,0,0,0,0
+Lithuania,Cycling Track,0,0,0,0
+Lithuania,Rowing,0,0,0,0
+Malaysia,Archery,0,0,0,0
+Malaysia,Badminton,1,0,0,1
+Malaysia,Diving,0,0,0,0
+Malaysia,Sailing,0,0,0,0
+Mexico,Archery,1,0,0,1
+Mexico,Artistic Swimming,0,0,0,0
+Mexico,Baseball/Softball,0,0,0,0
+Mexico,Beach Volleyball,0,0,0,0
+Mexico,Cycling Track,0,0,0,0
+Mexico,Diving,1,0,0,1
+Mexico,Football,1,0,0,1
+Mexico,Shooting,0,0,0,0
+Mexico,Tennis,0,0,0,0
+Mexico,Triathlon,0,0,0,0
+Mongolia,3x3 Basketball,0,0,0,0
+Mongolia,Archery,0,0,0,0
+Mongolia,Judo,0,0,0,0
+Mongolia,Shooting,0,0,0,0
+Montenegro,Handball,0,0,0,0
+Montenegro,Water Polo,0,0,0,0
+Morocco,Beach Volleyball,0,0,0,0
+Mozambique,Sailing,0,0,0,0
+Netherlands,3x3 Basketball,0,0,0,0
+Netherlands,Archery,0,0,1,1
+Netherlands,Artistic Swimming,0,0,0,0
+Netherlands,Athletics,0,0,1,1
+Netherlands,Badminton,0,0,0,0
+Netherlands,Beach Volleyball,0,0,0,0
+Netherlands,Cycling Track,0,1,0,1
+Netherlands,Equestrian,0,0,0,0
+Netherlands,Football,0,0,0,0
+Netherlands,Handball,0,0,0,0
+Netherlands,Hockey,0,1,0,1
+Netherlands,Judo,0,0,0,0
+Netherlands,Rowing,2,1,2,5
+Netherlands,Sailing,1,0,0,1
+Netherlands,Swimming,0,0,0,0
+Netherlands,Tennis,0,0,0,0
+Netherlands,Triathlon,0,0,0,0
+Netherlands,Water Polo,0,0,0,0
+New Zealand,Canoe Sprint,0,1,0,1
+New Zealand,Cycling Track,0,0,0,0
+New Zealand,Equestrian,0,0,0,0
+New Zealand,Football,0,0,0,0
+New Zealand,Hockey,0,0,0,0
+New Zealand,Rowing,0,2,2,4
+New Zealand,Rugby Sevens,0,1,1,2
+New Zealand,Sailing,0,0,1,1
+New Zealand,Tennis,1,0,0,1
+New Zealand,Triathlon,0,0,0,0
+Nigeria,Badminton,0,0,0,0
+Nigeria,Basketball,0,0,0,0
+Norway,Beach Volleyball,0,1,0,1
+Norway,Handball,1,0,0,1
+Norway,Rowing,0,0,0,0
+Norway,Sailing,0,0,0,0
+Norway,Shooting,0,0,0,0
+People's Republic of China,3x3 Basketball,1,0,0,1
+People's Republic of China,Archery,0,0,0,0
+People's Republic of China,Artistic Gymnastics,1,0,0,1
+People's Republic of China,Artistic Swimming,0,0,2,2
+People's Republic of China,Athletics,0,0,0,0
+People's Republic of China,Badminton,0,1,3,4
+People's Republic of China,Basketball,0,0,0,0
+People's Republic of China,Beach Volleyball,0,0,0,0
+People's Republic of China,Canoe Sprint,0,1,1,2
+People's Republic of China,Cycling Track,0,1,0,1
+People's Republic of China,Diving,0,3,1,4
+People's Republic of China,Equestrian,0,0,0,0
+People's Republic of China,Fencing,0,0,0,0
+People's Republic of China,Football,0,0,0,0
+People's Republic of China,Hockey,0,0,0,0
+People's Republic of China,Rhythmic Gymnastics,0,0,0,0
+People's Republic of China,Rowing,2,1,0,3
+People's Republic of China,Rugby Sevens,0,0,0,0
+People's Republic of China,Sailing,0,0,0,0
+People's Republic of China,Shooting,0,2,0,2
+People's Republic of China,Swimming,0,1,1,2
+People's Republic of China,Table Tennis,0,2,1,3
+People's Republic of China,Tennis,0,0,0,0
+People's Republic of China,Volleyball,0,0,0,0
+People's Republic of China,Water Polo,0,0,0,0
+Peru,Sailing,0,0,0,0
+Poland,3x3 Basketball,0,0,0,0
+Poland,Archery,0,0,0,0
+Poland,Athletics,0,1,1,2
+Poland,Beach Volleyball,0,0,0,0
+Poland,Canoe Sprint,1,0,1,2
+Poland,Cycling Track,0,0,0,0
+Poland,Equestrian,0,0,0,0
+Poland,Fencing,0,0,0,0
+Poland,Rowing,0,0,1,1
+Poland,Sailing,0,0,1,1
+Poland,Shooting,0,0,0,0
+Poland,Table Tennis,0,0,0,0
+Poland,Tennis,0,0,0,0
+Poland,Volleyball,0,0,0,0
+Portugal,Canoe Sprint,0,0,0,0
+Portugal,Equestrian,0,0,0,0
+Portugal,Handball,0,0,0,0
+Portugal,Rowing,0,0,0,0
+Portugal,Sailing,0,0,0,0
+Portugal,Table Tennis,0,0,0,0
+Portugal,Tennis,0,0,0,0
+Puerto Rico,Basketball,0,0,0,0
+Puerto Rico,Sailing,0,0,0,0
+Qatar,Beach Volleyball,1,0,0,1
+ROC,3x3 Basketball,0,0,2,2
+ROC,Archery,0,0,1,1
+ROC,Artistic Gymnastics,0,2,0,2
+ROC,Artistic Swimming,0,2,0,2
+ROC,Badminton,0,0,0,0
+ROC,Beach Volleyball,0,0,1,1
+ROC,Canoe Sprint,0,0,0,0
+ROC,Cycling Track,2,0,0,2
+ROC,Diving,1,0,0,1
+ROC,Equestrian,0,0,0,0
+ROC,Fencing,0,2,2,4
+ROC,Handball,0,0,1,1
+ROC,Judo,0,0,0,0
+ROC,Rhythmic Gymnastics,0,0,1,1
+ROC,Rowing,0,0,1,1
+ROC,Rugby Sevens,0,0,0,0
+ROC,Sailing,0,0,0,0
+ROC,Shooting,0,0,1,1
+ROC,Swimming,0,0,1,1
+ROC,Tennis,0,1,1,2
+ROC,Triathlon,0,0,0,0
+ROC,Volleyball,0,0,1,1
+ROC,Water Polo,0,0,0,0
+Refugee Olympic Team,Judo,0,0,0,0
+Republic of Korea,Archery,0,3,0,3
+Republic of Korea,Badminton,1,0,0,1
+Republic of Korea,Baseball/Softball,0,0,0,0
+Republic of Korea,Basketball,0,0,0,0
+Republic of Korea,Diving,0,0,0,0
+Republic of Korea,Fencing,2,1,1,4
+Republic of Korea,Football,0,0,0,0
+Republic of Korea,Handball,0,0,0,0
+Republic of Korea,Judo,0,0,0,0
+Republic of Korea,Rugby Sevens,0,0,0,0
+Republic of Korea,Sailing,0,0,0,0
+Republic of Korea,Shooting,0,0,0,0
+Republic of Korea,Table Tennis,0,0,0,0
+Republic of Korea,Volleyball,0,0,0,0
+Republic of Moldova,Archery,0,0,0,0
+Republic of Moldova,Canoe Sprint,0,0,0,0
+Romania,3x3 Basketball,0,0,0,0
+Romania,Canoe Sprint,0,0,0,0
+Romania,Football,0,0,0,0
+Romania,Rowing,0,1,2,3
+Romania,Table Tennis,0,0,0,0
+Romania,Tennis,0,0,0,0
+Samoa,Canoe Sprint,0,0,0,0
+San Marino,Shooting,0,0,1,1
+Sao Tome and Principe,Canoe Sprint,0,0,0,0
+Saudi Arabia,Football,0,0,0,0
+Serbia,3x3 Basketball,1,0,0,1
+Serbia,Basketball,0,0,0,0
+Serbia,Rowing,0,0,0,0
+Serbia,Shooting,0,0,0,0
+Serbia,Table Tennis,0,0,0,0
+Serbia,Tennis,0,0,0,0
+Serbia,Volleyball,1,0,0,1
+Serbia,Water Polo,0,1,0,1
+Singapore,Sailing,0,0,0,0
+Singapore,Table Tennis,0,0,0,0
+Slovakia,Canoe Sprint,1,0,0,1
+Slovakia,Shooting,0,0,0,0
+Slovakia,Table Tennis,0,0,0,0
+Slovakia,Tennis,0,0,0,0
+Slovenia,Basketball,0,0,0,0
+Slovenia,Canoe Sprint,0,0,0,0
+Slovenia,Sailing,0,0,0,0
+Slovenia,Table Tennis,0,0,0,0
+South Africa,Artistic Swimming,0,0,0,0
+South Africa,Football,0,0,0,0
+South Africa,Hockey,0,0,0,0
+South Africa,Rowing,0,0,0,0
+South Africa,Rugby Sevens,0,0,0,0
+South Africa,Sailing,0,0,0,0
+South Africa,Water Polo,0,0,0,0
+Spain,Archery,0,0,0,0
+Spain,Artistic Swimming,0,0,0,0
+Spain,Basketball,0,0,0,0
+Spain,Beach Volleyball,0,0,0,0
+Spain,Canoe Sprint,0,0,1,1
+Spain,Cycling Track,0,0,0,0
+Spain,Equestrian,0,0,0,0
+Spain,Football,0,0,1,1
+Spain,Handball,1,0,0,1
+Spain,Hockey,0,0,0,0
+Spain,Rowing,0,0,0,0
+Spain,Sailing,1,0,0,1
+Spain,Shooting,0,1,0,1
+Spain,Tennis,0,0,0,0
+Spain,Triathlon,0,0,0,0
+Spain,Water Polo,0,0,1,1
+Sweden,Equestrian,0,1,0,1
+Sweden,Football,0,0,1,1
+Sweden,Handball,0,0,0,0
+Sweden,Sailing,0,0,1,1
+Sweden,Swimming,0,0,0,0
+Sweden,Table Tennis,0,0,0,0
+Switzerland,Artistic Gymnastics,0,0,0,0
+Switzerland,Athletics,0,0,0,0
+Switzerland,Beach Volleyball,1,0,0,1
+Switzerland,Cycling Track,0,0,0,0
+Switzerland,Equestrian,0,0,0,0
+Switzerland,Fencing,0,0,0,0
+Switzerland,Rowing,0,0,0,0
+Switzerland,Sailing,0,0,0,0
+Switzerland,Swimming,0,0,0,0
+Switzerland,Tennis,0,0,1,1
+Switzerland,Triathlon,0,0,0,0
+Thailand,Badminton,0,0,0,0
+Thailand,Equestrian,0,0,0,0
+Thailand,Rowing,0,0,0,0
+Trinidad and Tobago,Athletics,0,0,0,0
+Tunisia,Archery,0,0,0,0
+Tunisia,Canoe Sprint,0,0,0,0
+Tunisia,Fencing,0,0,0,0
+Tunisia,Rowing,0,0,0,0
+Tunisia,Sailing,0,0,0,0
+Tunisia,Shooting,0,0,0,0
+Tunisia,Volleyball,0,0,0,0
+Turkey,Archery,0,0,0,0
+Turkey,Sailing,0,0,0,0
+Turkey,Volleyball,0,0,0,0
+Ukraine,Archery,0,0,0,0
+Ukraine,Artistic Gymnastics,0,0,0,0
+Ukraine,Artistic Swimming,2,0,0,2
+Ukraine,Canoe Sprint,0,0,1,1
+Ukraine,Cycling Track,0,0,0,0
+Ukraine,Diving,0,0,0,0
+Ukraine,Fencing,0,0,0,0
+Ukraine,Rhythmic Gymnastics,0,0,0,0
+Ukraine,Rowing,0,0,0,0
+Ukraine,Shooting,1,0,0,1
+Ukraine,Tennis,0,0,0,0
+United States of America,3x3 Basketball,0,1,0,1
+United States of America,Archery,0,0,0,0
+United States of America,Artistic Gymnastics,0,0,1,1
+United States of America,Artistic Swimming,0,0,0,0
+United States of America,Athletics,1,2,1,4
+United States of America,Badminton,0,0,0,0
+United States of America,Baseball/Softball,0,0,2,2
+United States of America,Basketball,0,2,0,2
+United States of America,Beach Volleyball,0,1,0,1
+United States of America,Cycling Track,1,0,0,1
+United States of America,Diving,0,0,2,2
+United States of America,Equestrian,0,0,2,2
+United States of America,Fencing,1,0,0,1
+United States of America,Football,1,0,0,1
+United States of America,Rowing,0,0,0,0
+United States of America,Rugby Sevens,0,0,0,0
+United States of America,Sailing,0,0,0,0
+United States of America,Shooting,1,0,1,2
+United States of America,Swimming,1,2,2,5
+United States of America,Table Tennis,0,0,0,0
+United States of America,Tennis,0,0,0,0
+United States of America,Triathlon,0,0,1,1
+United States of America,Volleyball,0,1,0,1
+United States of America,Water Polo,0,1,0,1
+Uruguay,Rowing,0,0,0,0
+Uruguay,Sailing,0,0,0,0
+Uzbekistan,Canoe Sprint,0,0,0,0
+Uzbekistan,Judo,0,0,0,0
+Uzbekistan,Rowing,0,0,0,0
+Venezuela,Rowing,0,0,0,0
+Venezuela,Volleyball,0,0,0,0
+Vietnam,Archery,0,0,0,0
+Vietnam,Rowing,0,0,0,0
+Zambia,Football,0,0,0,0
